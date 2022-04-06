@@ -1211,8 +1211,6 @@ C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBo
 C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\bin\Debug\net6.0\wwwroot\_framework\WFPBowl_Github.pdb
 C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\bin\Debug\net6.0\wwwroot\_framework\WFPBowl_Github.pdb.gz
 C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\bin\Debug\net6.0\wwwroot\_framework\WFPBowl_Github.dll.gz
-C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\bin\Debug\net6.0\package-lock.json
-C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\bin\Debug\net6.0\package.json
 C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\bin\Debug\net6.0\WFPBowl_Github.staticwebassets.runtime.json
 C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\bin\Debug\net6.0\WFPBowl_Github.dll
 C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\bin\Debug\net6.0\WFPBowl_Github.pdb
@@ -1630,3 +1628,4 @@ C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBo
 C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\obj\Debug\net6.0\build-gz\JZPcaF1s.gz
 C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\obj\Debug\net6.0\build-gz\f6aCjd9l.gz
 C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\obj\Debug\net6.0\build-gz\9elyI8IQ.gz
+C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\bin\Debug\net6.0\prepros.config
