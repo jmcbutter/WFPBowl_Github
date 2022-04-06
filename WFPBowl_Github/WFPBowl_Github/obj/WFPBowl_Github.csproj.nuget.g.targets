@@ -3,5 +3,6 @@
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.devserver\6.0.2\build\Microsoft.AspNetCore.Components.WebAssembly.DevServer.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.devserver\6.0.2\build\Microsoft.AspNetCore.Components.WebAssembly.DevServer.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.analyzers\6.0.2\buildTransitive\netstandard2.0\Microsoft.AspNetCore.Components.Analyzers.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.analyzers\6.0.2\buildTransitive\netstandard2.0\Microsoft.AspNetCore.Components.Analyzers.targets')" />
+    <Import Project="$(NuGetPackageRoot)buildwebcompiler2022\1.14.7\build\BuildWebCompiler2022.targets" Condition="Exists('$(NuGetPackageRoot)buildwebcompiler2022\1.14.7\build\BuildWebCompiler2022.targets')" />
   </ImportGroup>
 </Project>
