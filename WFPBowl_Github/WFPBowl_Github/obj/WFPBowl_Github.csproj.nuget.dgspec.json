@@ -40,10 +40,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "BuildWebCompiler2022": {
-              "target": "Package",
-              "version": "[1.14.7, )"
-            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[6.0.2, )"

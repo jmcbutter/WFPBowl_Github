@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "sO0vOVNRgDiYoseFsjQezHZic48aUoePX1JrjPcWjCDTyqjYpSA60XDWh6JouclyLZjRd/7p58ft06+RVI5B8Q==",
+  "dgSpecHash": "EnnNxm06/7h/OPL4D2fOIHjtbs2nPljTjxpxSImM8Cdx1OcdfVbemq2CZolIAuDOUioIN2+YS2HGZQx/UxN4wg==",
   "success": true,
   "projectFilePath": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JORDAN BUTTERFIELD\\.nuget\\packages\\buildwebcompiler2022\\1.14.7\\buildwebcompiler2022.1.14.7.nupkg.sha512",
     "C:\\Users\\JORDAN BUTTERFIELD\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.2\\microsoft.aspnetcore.authorization.6.0.2.nupkg.sha512",
     "C:\\Users\\JORDAN BUTTERFIELD\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.2\\microsoft.aspnetcore.components.6.0.2.nupkg.sha512",
     "C:\\Users\\JORDAN BUTTERFIELD\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.2\\microsoft.aspnetcore.components.analyzers.6.0.2.nupkg.sha512",
