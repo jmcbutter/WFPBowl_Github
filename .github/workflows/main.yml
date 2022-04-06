@@ -35,13 +35,6 @@ jobs:
       # add .nojekyll file to tell GitHub pages to not treat this as a Jekyll project. (Allow files and folders starting with an underscore)
       - name: Add .nojekyll file
         run: touch release/wwwroot/.nojekyll
-        
-      - name: Add .gitattributes file with * binary
-        run: touch release/wwwroot/.gitattributes
-             echo "* binary" >release/wwwroot/.gitattributes
-             git add --renormalize .
-             git commit -m "Adding .gitattributes and renormalizing"
-             git push
       
       - name: Commit wwwroot to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.3.0
@@ -49,3 +42,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
           FOLDER: release/wwwroot
+          
+      - name: Add .gitattributes file with * binary
+        run: touch release/wwwroot/.gitattributes
+        
+      - name: Add * binary to gitattributes file
+        run: echo "* binary" >release/wwwroot/.gitattributes
+        
+      - name: Call git add renormalize
+        run:  git add --renormalize .
+        
+      - name: Commit changes
+        run: git commit -m "Adding .gitattributes and renormalizing"
+        
+      - name: push changes
+        run: git push origin gh-pages
