@@ -35,6 +35,9 @@ jobs:
       # add .nojekyll file to tell GitHub pages to not treat this as a Jekyll project. (Allow files and folders starting with an underscore)
       - name: Add .nojekyll file
         run: touch release/wwwroot/.nojekyll
+        
+      - name: Add .gitattributes file with * binary
+        run: echo "* binary" >.gitattributes
       
       - name: Commit wwwroot to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.3.0
