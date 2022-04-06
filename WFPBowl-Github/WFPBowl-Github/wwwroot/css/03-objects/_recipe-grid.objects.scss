@@ -1,0 +1,25 @@
+.o-recipe-grid {
+    display: grid;
+    grid-template-areas: "recipe-grid__11    recipe-grid__12"
+                         "recipe-grid__21        .   ";
+    grid-template-rows: auto auto;
+    grid-template-columns: 1.62fr 0.5fr;
+}
+
+.o-recipe-grid__11 {
+    grid-area: recipe-grid__11;
+    justify-self: start;
+    align-self: center;
+}
+
+.o-recipe-grid__12 {
+    grid-area: recipe-grid__12;
+    justify-self: end;
+    align-self: start;
+}
+
+.o-recipe-grid__21 {
+    grid-area: recipe-grid__21;
+    justify-self: start;
+    align-self: center;
+}

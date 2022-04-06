@@ -1,0 +1,114 @@
+﻿@page "/"
+@inject HttpClient Http
+
+@if (_visibleIngredients == null)
+{
+    <p>Loading Ingredients...</p>
+}
+else
+{
+    <div class="o-container o-container--sticky o-container--below-header u-pad-over">
+        <SearchBar Ingredients="_visibleIngredients" Search="SearchIngredients"/>
+
+        <FilterBlock Filter="FilterIngredientsByCategory"/>
+        <div class="u-pad-over">
+            <SelectedIngredients Selected="_selected" RemoveIngredient="RemoveIngredientFromSelection"/>
+        </div>
+    </div>
+    <div>
+        @foreach (Ingredient ingredient in _visibleIngredients)
+        {
+            <RatedIngredient Ingredient="ingredient" OnSelected="AddIngredientToSelection"/>
+        }
+    </div>    
+}
+
+
+@code {
+    private List<Ingredient>? _ingredients;
+    private List<Ingredient>? _visibleIngredients;
+    private string _categoryFilter = "all";
+    private List<Ingredient> _selected = new List<Ingredient>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _ingredients = await Http.GetFromJsonAsync<List<Ingredient>>("ingredients/ingredient-data.json");
+            _visibleIngredients = _ingredients.OrderBy(x => x.Name).ToList();
+        }
+        catch (HttpRequestException ex)
+        {
+            Console.WriteLine($"There was a problem loading ingredient data: {ex.Message}");
+        }
+    }
+
+    private void AddIngredientToSelection(Ingredient ingredient)
+    {
+        ingredient.IsSelected = !ingredient.IsSelected;
+        _selected.Add(ingredient);
+        _ingredients.Remove(ingredient);
+        UpdateRatings();
+        _visibleIngredients = FilterIngredients(_ingredients).OrderByDescending(x => x.Rating).ThenBy(x => x.Name).ToList();
+    }
+
+    private void RemoveIngredientFromSelection(Ingredient ingredient)
+    {
+        ingredient.IsSelected = !ingredient.IsSelected;
+        _selected.Remove(ingredient);
+        _ingredients.Add(ingredient);
+        UpdateRatings();
+        _visibleIngredients = FilterIngredients(_ingredients).OrderByDescending(x => x.Rating).ThenBy(x => x.Name).ToList();
+        StateHasChanged();
+    }
+
+    private void FilterIngredientsByCategory(string filter)
+    {
+        _categoryFilter = filter;
+        _visibleIngredients = FilterIngredients(_ingredients).OrderByDescending(x => x.Rating).ThenBy(x => x.Name).ToList();
+    }
+
+    private List<Ingredient> FilterIngredients(List<Ingredient> ingredients)
+    {
+        if (_categoryFilter == "all")
+        {
+            return ingredients;
+        }
+        else
+        {
+            return ingredients.Where(x => x.Category == _categoryFilter).ToList();   
+        }
+    }
+
+    private void SearchIngredients(string search)
+    {
+        string pattern = $@"(?i)\b({search}.+?)(?:,|$)";
+        Regex rgx = new Regex(pattern);
+
+        List<Ingredient> ingredients = new List<Ingredient>();
+
+        string regexIngredients = String.Join(" , ", _ingredients.Select(i => i.Name.ToLower()).ToList());
+
+        foreach (Match match in rgx.Matches(regexIngredients))
+        {
+            Ingredient ingredient = _ingredients.Where(x => x.Name.ToLower() == match.Groups[1].Value.ToLower().Trim())
+                                                .FirstOrDefault();
+            if (ingredient != null) ingredients.Add(ingredient);
+        }
+
+        _visibleIngredients = FilterIngredients(ingredients).OrderByDescending(x => x.Rating).OrderBy(x => x.Name).ToList();
+    }
+
+    private void UpdateRatings()
+    {
+        if(_selected.Count() != 0)
+        {
+            foreach (Ingredient ingredient in _ingredients) ingredient.GetRating(_selected);
+            foreach (Ingredient ingredient in _selected) ingredient.GetRating(_selected);
+        }
+        else
+        {
+            foreach (Ingredient ingredient in _ingredients) ingredient.Rating = 100;
+        }
+    }
+}

@@ -1,0 +1,15 @@
+.o-ingredient-flex {
+    display: flex;
+}
+
+.o-ingredient-flex__left {
+    flex: 9;
+    justify-items: start;
+    text-align: start;
+}
+
+.o-ingredient-flex__right {
+    flex: 1;
+    justify-items: center;
+    text-align: center;
+}

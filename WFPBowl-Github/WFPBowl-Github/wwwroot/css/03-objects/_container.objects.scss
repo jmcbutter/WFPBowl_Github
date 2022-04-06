@@ -1,0 +1,54 @@
+@use "../00-settings/colors.settings";
+@use "../00-settings/fonts.settings";
+
+.o-container {
+  margin: 0 auto;
+  width: 100%;
+  background-color: inherit;
+
+  &--30 {
+    width: 30%;
+  }
+
+  &--40 {
+    width: 40%;
+  }
+
+  &--50 {
+    width: 50%;
+  }
+
+  &--75 {
+    width: 75%;
+  }
+
+  &--90 {
+    width: 90%;
+  }
+
+  &--95 {
+    width: 95%;
+  }
+
+}
+
+.o-container--sticky {
+  position: sticky;
+  z-index: 10000;
+}
+
+.o-container--absolute {
+  position: absolute;
+}
+
+.o-container--top {
+  top: 0;
+}
+
+.o-container--below-header {
+  top: 3rem;
+}
+
+.o-container--bottom {
+  bottom: 0;
+}

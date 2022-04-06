@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "category": "fruits",
+    "pairedIngredients": [
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 2,
+        "strength": 95,
+        "factor": 60
+      },
+      {
+        "ingredientId": 6,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 7,
+        "strength": 100,
+        "factor": 40
+      },
+      {
+        "ingredientId": 15,
+        "strength": 90,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Banana",
+    "category": "fruits",
+    "pairedIngredients": [
+      {
+        "ingredientId": 2,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 6,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 10,
+        "strength": 100,
+        "factor": 40
+      },
+      {
+        "ingredientId": 16,
+        "strength": 100,
+        "factor": 80
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Adobo Sauce",
+    "category": "sauces",
+    "pairedIngredients": [
+      {
+        "ingredientId": 3,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 6,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 16,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 20,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Agave Nectar",
+    "category": "other",
+    "pairedIngredients": [
+      {
+        "ingredientId": 4,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 2,
+        "strength": 100,
+        "factor": 40
+      },
+      {
+        "ingredientId": 5,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 11,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 18,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 19,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 20,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "Allspice",
+    "category": "spices",
+    "pairedIngredients": [
+      {
+        "ingredientId": 5,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 4,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 6,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 7,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 9,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 17,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "Almonds",
+    "category": "nuts",
+    "pairedIngredients": [
+      {
+        "ingredientId": 6,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 4,
+        "strength": 80,
+        "factor": 20
+      },
+      {
+        "ingredientId": 7,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 9,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 13,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 14,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 15,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 19,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "Amaranth",
+    "category": "grains",
+    "pairedIngredients": [
+      {
+        "ingredientId": 7,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 2,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 6,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 9,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 10,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 12,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 17,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 18,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 8,
+    "name": "Star Anise",
+    "category": "spices",
+    "pairedIngredients": [
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 5,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 7,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 10,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 13,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 15,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 18,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 19,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "name": "Apricots",
+    "category": "fruits",
+    "pairedIngredients": [
+      {
+        "ingredientId": 9,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 2,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 3,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 5,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 14,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 17,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 20,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 10,
+    "name": "Arrowroot",
+    "category": "other",
+    "pairedIngredients": [
+      {
+        "ingredientId": 10,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 6,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 18,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 19,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 20,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 22,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 11,
+    "name": "Artichokes",
+    "category": "vegetables",
+    "pairedIngredients": [
+      {
+        "ingredientId": 11,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 4,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 5,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 10,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 17,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 19,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 22,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 12,
+    "name": "Arugula",
+    "category": "vegetables",
+    "pairedIngredients": [
+      {
+        "ingredientId": 12,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 3,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 7,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 10,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 11,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 16,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 22,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 13,
+    "name": "Asparagus",
+    "category": "vegetables",
+    "pairedIngredients": [
+      {
+        "ingredientId": 13,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 3,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 6,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 12,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 14,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 19,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 20,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 14,
+    "name": "Barley",
+    "category": "grains",
+    "pairedIngredients": [
+      {
+        "ingredientId": 14,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 4,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 7,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 16,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 20,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 15,
+    "name": "Basil",
+    "category": "spices",
+    "pairedIngredients": [
+      {
+        "ingredientId": 15,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 2,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 11,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 13,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 14,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 22,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 16,
+    "name": "Black Beans",
+    "category": "legumes",
+    "pairedIngredients": [
+      {
+        "ingredientId": 16,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 4,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 7,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 15,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 20,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 17,
+    "name": "Cannellini Beans",
+    "category": "legumes",
+    "pairedIngredients": [
+      {
+        "ingredientId": 17,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 2,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 11,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 13,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 14,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 22,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 18,
+    "name": "Garbanzo Beans",
+    "category": "legumes",
+    "pairedIngredients": [
+      {
+        "ingredientId": 18,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 4,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 7,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 16,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 20,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 22,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 19,
+    "name": "Kidney Beans",
+    "category": "legumes",
+    "pairedIngredients": [
+      {
+        "ingredientId": 19,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 2,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 11,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 13,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 14,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 22,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 20,
+    "name": "Beets",
+    "category": "vegetables",
+    "pairedIngredients": [
+      {
+        "ingredientId": 20,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 4,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 7,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 16,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 22,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 21,
+    "name": "Green Bell Peppers",
+    "category": "vegetables",
+    "pairedIngredients": [
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 2,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 11,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 13,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 14,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 22,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  },
+
+  {
+    "id": 22,
+    "name": "Bragg Liquid Aminos",
+    "category": "sauces",
+    "pairedIngredients": [
+      {
+        "ingredientId": 22,
+        "strength": 100,
+        "factor": 100
+      },
+      {
+        "ingredientId": 6,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 6,
+        "strength": 100,
+        "factor": 60
+      },
+      {
+        "ingredientId": 1,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 8,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 16,
+        "strength": 100,
+        "factor": 20
+      },
+      {
+        "ingredientId": 20,
+        "strength": 100,
+        "factor": 80
+      },
+      {
+        "ingredientId": 21,
+        "strength": 100,
+        "factor": 60
+      }
+    ]
+  }
+]

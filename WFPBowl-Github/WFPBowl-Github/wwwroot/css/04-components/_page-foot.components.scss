@@ -1,0 +1,11 @@
+@use "../00-settings/colors.settings";
+@use "../00-settings/fonts.settings";
+
+.c-page-foot {
+    font-size: fonts.$font-xs;
+    height: 1rem;
+    text-align: center;
+
+    background-color: colors.$color-primary;
+    color: colors.$color-secondary;
+}

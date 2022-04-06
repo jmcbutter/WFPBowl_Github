@@ -1,0 +1,9 @@
+﻿<input id="ingredientSearchBar" type="text" class="c-text-input o-container o-container--75" placeholder="search..." @oninput="((EventArgs) => Search.InvokeAsync(EventArgs.Value.ToString()))">
+
+@code {
+    [Parameter, EditorRequired]
+    public List<Ingredient> Ingredients { get; set; }
+
+    [Parameter, EditorRequired]
+    public EventCallback<string> Search { get; set; }
+}

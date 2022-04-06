@@ -1,0 +1,23 @@
+﻿<div class="o-ingredient-flex c-ingredient">
+    <div class="o-ingredient-flex__left u-cursor--pointer" @onclick="(async () => OnSelected.InvokeAsync(Ingredient))">
+        @if (!Ingredient.IsSelected)
+        {
+            <p class="c-text">@Ingredient.Name</p>
+        }
+        else
+        {
+            <p class="c-text c-text--bold c-text--upper">@Ingredient.Name</p>
+        }
+    </div>
+
+    <div class="o-ingredient-flex__right">
+        <p class="c-text--bold c-text--small">@Ingredient.Rating</p>
+    </div>
+</div>
+
+@code {
+    [Parameter, EditorRequired]
+    public Ingredient Ingredient { get; set; } = default!;
+    [Parameter, EditorRequired]
+    public EventCallback<Ingredient> OnSelected { get; set;  }
+}

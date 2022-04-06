@@ -1,0 +1,37 @@
+@use "../00-settings/colors.settings";
+@use "../00-settings/fonts.settings";
+
+.c-button {
+    display: inline-block;
+    vertical-align: middle;
+    font: fonts.$secondary-font-family;
+    background-color: inherit;
+    text-align: center;
+    margin: 0;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: fonts.$font-ms;
+}
+
+.c-button--green {
+    color: colors.$color-theme-green;
+    border: 1px solid colors.$color-theme-green;
+}
+
+.c-button--red {
+    color: colors.$color-theme-red;
+    border: 1px solid colors.$color-theme-red;
+}
+
+.c-button--no-border {
+    border: none;
+    color: colors.$color-page-text-primary;
+}
+
+.c-button--left {
+    text-align: left;
+}
+
+.c-button--right {
+    text-align: right;
+}

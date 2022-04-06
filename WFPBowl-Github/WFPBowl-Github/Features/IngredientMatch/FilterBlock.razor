@@ -1,0 +1,24 @@
+﻿<div class="o-flex o-flex--center">
+    @foreach (string label in Filters)
+    {
+        <p class="c-text c-text--small c-text--filter c-text--upper u-cursor--pointer" @onclick="(async () => Filter.InvokeAsync(label.ToLower()))">@label</p>   
+    }
+</div>
+
+@code {
+    public readonly List<string> Filters = new List<string>
+    {
+        "All",
+        "Grains",
+        "Legumes",
+        "Vegetables",
+        "Fruits",
+        "Nuts",
+        "Spices",
+        "Sauces",
+        "Other",
+    };
+
+    [Parameter, EditorRequired]
+    public EventCallback<string> Filter { get; set; }
+}
