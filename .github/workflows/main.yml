@@ -37,7 +37,10 @@ jobs:
         run: touch release/wwwroot/.nojekyll
         
       - name: Add .gitattributes file with * binary
-        run: echo "* binary" >.gitattributes
+        run: echo "* binary" >rlease/wwwroot/.gitattributes
+             git add --renormalize .
+             git commit -m "Adding .gitattributes and renormalizing"
+             git push
       
       - name: Commit wwwroot to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.3.0
