@@ -37,22 +37,17 @@ jobs:
         run: touch release/wwwroot/.nojekyll
         
       - name: Add .gitattributes file with * binary
-        run: touch release/wwwroot/.gitattributes
+        run: |
+          touch release/wwwroot/.gitattributes
+          echo "* binary" >release/wwwroot/.gitattributes
+          git commit -m "Add .gitattributes"
+          git push
         
-      - name: Add * binary to gitattributes file
-        run: echo "* binary" >release/wwwroot/.gitattributes
-        
-      - name: Call git add renormalize
-        run:  git add --renormalize .
-        
-      - name: Call git commit and push
-        run: git commit -m "Add .gitattributes" \
-             git push
       
       - name: Commit wwwroot to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.3.0
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
           BRANCH: gh-pages
           FOLDER: release/wwwroot
           
