@@ -1,0 +1,65 @@
+/* /Features/IngredientMatch/SelectedIngredients.razor.rz.scp.css */
+.divider[b-auuhgmmdcp] {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.divider[b-auuhgmmdcp]::after {
+  content: "";
+  flex: 1;
+  border-bottom: 1px solid black;
+}
+
+.box[b-auuhgmmdcp] {
+  border: 1px solid black;
+  height: 1.5em;
+  width: 1.5em;
+  cursor: pointer;
+  text-align: center;
+  vertical-align: center;
+  transform-origin: center;
+  transition: 200ms linear;
+}
+
+.count-container[b-auuhgmmdcp] {
+  position: relative;
+  cursor: pointer;
+  user-select: none;
+}
+
+.count[b-auuhgmmdcp] {
+  position: absolute;
+  left: -0.8em;
+  transform: translate(-50%, -50%);
+  user-select: none;
+}
+
+details[open] summary ~ *[b-auuhgmmdcp] {
+  animation: open-b-auuhgmmdcp 0.3s ease-in-out;
+}
+details[open] .box[b-auuhgmmdcp] {
+  transform: rotate(45deg);
+}
+details[open] .count[b-auuhgmmdcp] {
+  transition: 200ms linear;
+  transform-origin: center;
+}
+details[open] .divider[b-auuhgmmdcp]::after {
+  margin-left: 0.3em;
+  transition: margin 0.3s;
+}
+
+@keyframes open-b-auuhgmmdcp {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.padded[b-auuhgmmdcp] {
+  padding: 0.5em 2.5em;
+}
+
+/*# sourceMappingURL=SelectedIngredients.razor.css.map */
