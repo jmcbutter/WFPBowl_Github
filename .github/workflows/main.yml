@@ -40,6 +40,8 @@ jobs:
         run: |
           touch release/wwwroot/.gitattributes
           echo "* binary" >release/wwwroot/.gitattributes
+          git config --global user.email "jmcbutter@gmail.com"
+          git config --global user.name "Jordan Butterfield"
           git commit -m "Add .gitattributes"
           git push
         
