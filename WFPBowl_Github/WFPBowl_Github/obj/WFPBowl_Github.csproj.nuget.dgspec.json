@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl-Github-Pages\\WFPBowl-Github\\WFPBowl-Github\\WFPBowl_Github.csproj": {}
+    "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl-Github-Pages\\WFPBowl-Github\\WFPBowl-Github\\WFPBowl_Github.csproj": {
+    "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl-Github-Pages\\WFPBowl-Github\\WFPBowl-Github\\WFPBowl_Github.csproj",
+        "projectUniqueName": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj",
         "projectName": "WFPBowl_Github",
-        "projectPath": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl-Github-Pages\\WFPBowl-Github\\WFPBowl-Github\\WFPBowl_Github.csproj",
+        "projectPath": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj",
         "packagesPath": "C:\\Users\\JORDAN BUTTERFIELD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl-Github-Pages\\WFPBowl-Github\\WFPBowl-Github\\obj\\",
+        "outputPath": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JORDAN BUTTERFIELD\\AppData\\Roaming\\NuGet\\NuGet.Config",
