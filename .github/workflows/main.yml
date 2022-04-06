@@ -51,9 +51,3 @@ jobs:
         
       - name: Call git add renormalize
         run:  git add --renormalize .
-        
-      - name: Commit changes
-        run: git commit -m "Adding .gitattributes and renormalizing"
-        
-      - name: push changes
-        run: git push origin gh-pages
