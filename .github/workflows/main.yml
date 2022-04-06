@@ -37,7 +37,8 @@ jobs:
         run: touch release/wwwroot/.nojekyll
         
       - name: Add .gitattributes file with * binary
-        run: echo "* binary" >rlease/wwwroot/.gitattributes
+        run: touch release/wwwroot/.gitattributes
+             echo "* binary" >release/wwwroot/.gitattributes
              git add --renormalize .
              git commit -m "Adding .gitattributes and renormalizing"
              git push
