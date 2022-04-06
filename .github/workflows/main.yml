@@ -42,6 +42,7 @@ jobs:
           echo "* binary" >release/wwwroot/.gitattributes
           git config --global user.email "jmcbutter@gmail.com"
           git config --global user.name "Jordan Butterfield"
+          git add --renormalize .
           git commit -m "Add .gitattributes"
           git push
         
