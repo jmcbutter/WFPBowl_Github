@@ -1,0 +1,17 @@
+@use "../00-settings/colors.settings";
+@use "../00-settings/fonts.settings";
+
+.c-recipe {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.c-recipe + .c-recipe {
+    border-top: 1px solid black;
+}
+
+.c-recipe:last-of-type {
+    padding-bottom: 2.5em;
+}

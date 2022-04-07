@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../css/app.css">
+
+    <style>
+
+      details {
+        height: auto;
+      }
+
+      details[open] summary ~ *{
+        animation: open 0.3s ease-in-out;
+      }
+
+      @keyframes open {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+
+      .divider {
+          display: flex;
+          align-items: center;
+          text-align: center;
+      }
+
+      .divider::after {
+          content: "";
+          flex: 1;
+          border-bottom: 1px solid black;
+          margin-left: -1em;
+      }
+
+      .box {
+        border: 1px solid black;
+        height: 1.5em;
+        width: 1.5em;
+        cursor: pointer;
+        text-align: center;
+        vertical-align: center;
+        transform-origin: center;
+        transition: 200ms linear;
+      }
+
+      details[open] .box {
+        transform:rotate(45deg);
+      }
+
+      details[open] .divider::after {
+        margin-left: -0.8em;
+        transition: margin 0.3s;
+      }
+
+      .testing {
+        position: relative;
+        left: -0.8em;
+        transform: translateX(-50%);
+      }
+
+      details[open] .testing {
+        transition: 200ms linear;
+        transform-origin: center;
+      }
+
+      .rotated {
+        transform: rotate(45deg);
+      }
+
+      .rotated p {
+        transform: rotate(-45deg);
+      }
+      
+      .hide {
+        display: none;
+      }
+
+
+    </style>
+  </head>
+  <body style="padding: 2em;">
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <details>
+      <summary class="divider">
+        <div class="box">
+        </div>
+        <p class="testing">88</p>
+      </summary>
+      
+      <div class="list">
+        <div>Test</div>
+        <div>Test</div>
+      </div>
+      <hr class="">
+    </details>
+
+    
+    <script src="" async defer></script>
+  </body>
+</html>
+
+

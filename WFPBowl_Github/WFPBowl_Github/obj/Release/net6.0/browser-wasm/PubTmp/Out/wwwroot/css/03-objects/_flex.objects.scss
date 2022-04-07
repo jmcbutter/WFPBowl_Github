@@ -1,0 +1,39 @@
+/*-----------------------------*\
+  #Flex
+\*-----------------------------*/
+
+/**
+  * 1. Allows us to forget about flex-grow for most cases on the site.
+       Now, flexbox items will take up the full width with even spacing.
+  * 2. Prevents any flexboxes from sitting directly on top of each other
+  * 2a. Since clears padding between centered flexboxes. 
+  * 3. For flexboxes with a single item that needs to be centered
+  * 4. For flexboxes that need to be padded from the outside
+  * 5. For flexboxes with 2 items
+  */
+
+
+.o-flex {
+    display: flex;
+    justify-content: space-between; /* [1] */
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+
+.o-flex + .o-flex {
+    padding-top: 0.5em; /* [2] */
+}
+
+.o-flex--center {
+    justify-content: center; /* [3] */
+    text-align: center;
+}
+
+.o-flex--center + .o-flex--center {
+    padding-top: 0em;   /* [2a] */
+}
+
+.o-flex--padded {
+    justify-content: space-around; /* [4] */
+}
+

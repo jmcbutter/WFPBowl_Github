@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Mexican Black Beans",
+    "cuisine": "Mexican",
+    "season": "Fall",
+    "ingredientGroups": [
+      {
+        "group": "all",
+        "ingredients": [ "black beans", "onions", "garlic", "olive oil", "bay leaf" ]
+      }
+    ],
+    "notes": [
+      {
+        "group": "all",
+        "notes": [ "Soak Black Beans Overnight" ]
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Brazilian Rice",
+    "cuisine": "Brazilian",
+    "season": "Fall",
+    "ingredientGroups": [
+      {
+        "group": "all",
+        "ingredients": [ "white rice", "onions", "garlic", "olive oil", "tomatoes" ]
+      }
+    ],
+    "notes": [
+      {
+        "group": "all",
+        "notes": [ "Wash Rice", "Sautee Onions and Garlic in olive oil", "Add tomatoes before cooking rice", "2:1 water:rice" ]
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Black Beans with Brazilian Rice",
+    "cuisine": "Latin",
+    "season": "Fall",
+    "ingredientGroups": [
+      {
+        "group": "mexican black beans",
+        "ingredients": [ "black beans", "onions", "garlic", "olive oil", "bay leaf" ]
+      },
+      {
+        "group": "brazilian rice",
+        "ingredients": [ "white rice", "onions", "garlic", "olive oil", "tomatoes" ]
+      }
+    ],
+    "notes": [
+      {
+        "group": "mexican black beans",
+        "notes": [ "Soak Black Beans Overnight" ]
+      },
+      {
+        "group": "brazilian rice",
+        "notes": [ "Wash Rice", "Sautee Onions and Garlic in olive oil", "Add tomatoes before cooking rice", "2:1 water:rice" ]
+      }
+    ]
+  }
+]
