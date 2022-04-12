@@ -5,5 +5,155 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <History>False|2022-04-06T00:48:37.1718329Z;</History>
+    <_PublishTargetUrl>bin\Release\net6.0\browser-wasm\publish\</_PublishTargetUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <File Include="Features/IngredientMatch/FilterBlock.razor">
+      <publishTime>04/12/2022 07:49:37</publishTime>
+    </File>
+    <File Include="Features/IngredientMatch/Ingredient.cs">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="Features/IngredientMatch/IngredientFilter.cs">
+      <publishTime>04/12/2022 08:33:33</publishTime>
+    </File>
+    <File Include="Features/IngredientMatch/PairStrengthCalculator.cs">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="Features/IngredientMatch/QuickMatchPage.razor">
+      <publishTime>04/12/2022 08:31:04</publishTime>
+    </File>
+    <File Include="Features/IngredientMatch/RatedIngredient.razor">
+      <publishTime>04/12/2022 08:48:23</publishTime>
+    </File>
+    <File Include="Features/IngredientMatch/SearchBar.razor">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="Features/IngredientMatch/SelectedIngredients.razor">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="Features/IngredientMatch/SelectedIngredients.razor.css">
+      <publishTime>04/12/2022 08:37:46</publishTime>
+    </File>
+    <File Include="Features/IngredientMatch/SelectedIngredients.razor.scss">
+      <publishTime>04/12/2022 08:37:07</publishTime>
+    </File>
+    <File Include="Features/Layout/Header.razor">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="Features/Layout/MainLayout.razor">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/00-settings/_colors.settings.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/00-settings/_fonts.settings.scss">
+      <publishTime>04/12/2022 08:42:29</publishTime>
+    </File>
+    <File Include="wwwroot/css/00-settings/_settings.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/01-generic/_box-sizing.generic.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/01-generic/_generic.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/01-generic/_normalize.generic.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/01-generic/_reset.generic.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/02-elements/_elements.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/02-elements/_headings.elements.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/02-elements/_page.elements.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/03-objects/_container.objects.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/03-objects/_flex.objects.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/03-objects/_ingredient-flex.objects.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/03-objects/_objects.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/03-objects/_recipe-grid.objects.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_button.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_floating-button.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_hamburger-menu.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_ingredient.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_labels.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_modal.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_page-foot.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_page-head.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_recipe.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_text-input.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_text.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/04-components/_title-divider.components.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/05-utilities/_blazor-error-ui.utilities.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/05-utilities/_center.utilities.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/05-utilities/_cursor.utilities.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/05-utilities/_padding.utilities.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/05-utilities/_utilities.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/app.css">
+      <publishTime>04/12/2022 08:42:43</publishTime>
+    </File>
+    <File Include="wwwroot/css/app.scss">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/css/prepros.config">
+      <publishTime>04/05/2022 22:53:18</publishTime>
+    </File>
+    <File Include="wwwroot/ingredients/ingredient-data.json">
+      <publishTime>04/11/2022 18:35:57</publishTime>
+    </File>
+  </ItemGroup>
 </Project>

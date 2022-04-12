@@ -1,7 +1,7 @@
 ﻿<div class="o-flex o-flex--center">
     @foreach (string label in Filters)
     {
-        <p class="c-text c-text--small c-text--filter c-text--upper u-cursor--pointer" @onclick="(async () => Filter.InvokeAsync(label.ToLower()))">@label</p>   
+        <p class="c-text c-text--small c-text--filter c-text--upper u-cursor--pointer" @onclick="(async () => await Filter.InvokeAsync(label.ToLower()))">@label</p>   
     }
 </div>
 

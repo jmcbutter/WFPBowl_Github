@@ -1,0 +1,26 @@
+@use "../00-settings/fonts.settings" as f;
+@use "../00-settings/colors.settings" as c;
+
+
+:root, html {
+    font-size: f.$root-font-size;
+    line-height: f.$line-height;
+    font-family: f.$primary-font-family;
+    
+    background-color: c.$color-page-background;
+    color: c.$color-page-text-primary;
+
+    user-select: none;
+}
+
+body * + * {
+    margin-top: 0em;
+}
+
+main {
+    max-width: 620px;
+    margin: 0 auto;
+    background-color: c.$color-page-background;
+}
+
+

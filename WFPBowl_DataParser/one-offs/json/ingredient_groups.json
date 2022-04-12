@@ -1,0 +1,3049 @@
+[
+    {
+        "name":"agave nectar",
+        "items":[
+            "raw"
+        ]
+    },
+    {
+        "name":"almonds",
+        "items":[
+            "marcona",
+            "raw",
+            "roasted or smoked",
+            "sliced",
+            "spanish"
+        ]
+    },
+    {
+        "name":"apple",
+        "items":[
+            "cider",
+            "juice"
+        ]
+    },
+    {
+        "name":"apples",
+        "items":[
+            "apple juice",
+            "applesauce",
+            "cider",
+            "fruit",
+            "fuji",
+            "green",
+            "juice"
+        ]
+    },
+    {
+        "name":"apricots",
+        "items":[
+            "dried",
+            "fresh",
+            "pureed"
+        ]
+    },
+    {
+        "name":"artichokes",
+        "items":[
+            "baby",
+            "globe",
+            "hearts",
+            "jerusalem"
+        ]
+    },
+    {
+        "name":"arugula",
+        "items":[
+            "baby",
+            "micro"
+        ]
+    },
+    {
+        "name":"asparagus",
+        "items":[
+            "green",
+            "purple",
+            "white"
+        ]
+    },
+    {
+        "name":"barley",
+        "items":[
+            "hulled",
+            "pearl",
+            "pearled"
+        ]
+    },
+    {
+        "name":"basil",
+        "items":[
+            "italian or thai",
+            "lemon",
+            "sweet",
+            "thai"
+        ]
+    },
+    {
+        "name":"beans",
+        "items":[
+            "adzuki",
+            "anasazi",
+            "baked beans",
+            "black",
+            "black or kidney",
+            "borlotti",
+            "broad",
+            "butter",
+            "cannellini",
+            "cranberry",
+            "dried",
+            "e.g.",
+            "fava",
+            "fava bell peppers",
+            "fermented black",
+            "flageolet",
+            "fresh",
+            "gigante",
+            "green",
+            "haricots verts",
+            "kidney",
+            "lima",
+            "long",
+            "mung",
+            "navy",
+            "pinto",
+            "red",
+            "shell",
+            "soy",
+            "white",
+            "yellow"
+        ]
+    },
+    {
+        "name":"beans, dried",
+        "items":[
+            "black",
+            "cannellini",
+            "kidney",
+            "pinto",
+            "white",
+            "white (esp. winter savory)"
+        ]
+    },
+    {
+        "name":"beans, fresh",
+        "items":[
+            "fava",
+            "green",
+            "lima (esp. summer savory)"
+        ]
+    },
+    {
+        "name":"beans, green",
+        "items":[
+            "black",
+            "cannellini",
+            "french",
+            "green",
+            "haricots verts",
+            "pinto",
+            "red"
+        ]
+    },
+    {
+        "name":"beans, other",
+        "items":[
+            "anasazi",
+            "black",
+            "cannellini",
+            "fava",
+            "green",
+            "kidney",
+            "mung",
+            "red",
+            "shell",
+            "white"
+        ]
+    },
+    {
+        "name":"beans, white",
+        "items":[
+            "cannellini"
+        ]
+    },
+    {
+        "name":"beans\u2014in general",
+        "items":[
+            "borlotti",
+            "broad",
+            "dried",
+            "pinto",
+            "white"
+        ]
+    },
+    {
+        "name":"beer",
+        "items":[
+            "ipa"
+        ]
+    },
+    {
+        "name":"beets",
+        "items":[
+            "pickled",
+            "roasted",
+            "yellow"
+        ]
+    },
+    {
+        "name":"bell peppers",
+        "items":[
+            "black",
+            "black or white",
+            "esp. grilled",
+            "esp. grilled or roasted",
+            "esp. roasted",
+            "green",
+            "green and/or roasted",
+            "green or red",
+            "or yellow",
+            "orange",
+            "pink",
+            "red",
+            "red butter",
+            "red or yellow",
+            "roasted",
+            "roasted green",
+            "roasted red",
+            "stuffed",
+            "szechuan",
+            "tellicherry",
+            "white",
+            "yellow"
+        ]
+    },
+    {
+        "name":"bell peppers, red",
+        "items":[
+            "red",
+            "roasted",
+            "szechuan"
+        ]
+    },
+    {
+        "name":"bell peppers, sweet",
+        "items":[
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "name":"berries",
+        "items":[
+            "blackberries",
+            "blueberries",
+            "cranberries",
+            "goji",
+            "gooseberries",
+            "raspberries",
+            "strawberries"
+        ]
+    },
+    {
+        "name":"berries, other",
+        "items":[
+            "blackberries",
+            "blueberries",
+            "raspberries",
+            "strawberries"
+        ]
+    },
+    {
+        "name":"berries\u2014in general, or mixed berries (see also specific berries",
+        "items":[
+            "blackberries",
+            "blueberries",
+            "raspberries",
+            "strawberries)"
+        ]
+    },
+    {
+        "name":"black bean paste",
+        "items":[
+            "fermented"
+        ]
+    },
+    {
+        "name":"brandy",
+        "items":[
+            "apple",
+            "oat",
+            "pear",
+            "wheat"
+        ]
+    },
+    {
+        "name":"bread crumbs",
+        "items":[
+            "crusty whole-grain (e.g.",
+            "dark",
+            "fry",
+            "panko",
+            "pita",
+            "rye",
+            "wheat)",
+            "white",
+            "whole grain",
+            "whole wheat",
+            "whole-grain",
+            "whole-wheat"
+        ]
+    },
+    {
+        "name":"bread crumbs",
+        "items":[
+            "whole grain"
+        ]
+    },
+    {
+        "name":"bread crumbs/croutons",
+        "items":[
+            "whole-grain"
+        ]
+    },
+    {
+        "name":"breads",
+        "items":[
+            "dark",
+            "rye",
+            "sprouted grain",
+            "whole wheat"
+        ]
+    },
+    {
+        "name":"broccoli cabbage",
+        "items":[
+            "napa"
+        ]
+    },
+    {
+        "name":"bulgur",
+        "items":[
+            "fine-grain"
+        ]
+    },
+    {
+        "name":"buns",
+        "items":[
+            "whole-grain \u201cburger\u201d"
+        ]
+    },
+    {
+        "name":"cabbage",
+        "items":[
+            "braised",
+            "chinese",
+            "chinese or napa",
+            "green",
+            "julienned",
+            "napa",
+            "purple",
+            "red",
+            "savoy",
+            "stuffed",
+            "white"
+        ]
+    },
+    {
+        "name":"cabbage, other",
+        "items":[
+            "green",
+            "savoy"
+        ]
+    },
+    {
+        "name":"cardamom",
+        "items":[
+            "black",
+            "green"
+        ]
+    },
+    {
+        "name":"cashews",
+        "items":[
+            "ground raw",
+            "raw"
+        ]
+    },
+    {
+        "name":"chard",
+        "items":[
+            "feta",
+            "or mixed",
+            "rainbow",
+            "red/ruby",
+            "swiss"
+        ]
+    },
+    {
+        "name":"cheese",
+        "items":[
+            "asiago",
+            "feta",
+            "goat",
+            "gruy\u00e8re",
+            "mozzarella",
+            "parmesan",
+            "ricotta",
+            "ricotta salata",
+            "sheep\u2019s milk",
+            "swiss"
+        ]
+    },
+    {
+        "name":"cherries",
+        "items":[
+            "dried",
+            "dried or fresh",
+            "fresh",
+            "sour",
+            "tart"
+        ]
+    },
+    {
+        "name":"chickpeas",
+        "items":[
+            "ummus"
+        ]
+    },
+    {
+        "name":"chiles",
+        "items":[
+            "anaheim",
+            "ancho",
+            "ancho or green",
+            "chili paste",
+            "chili pepper flakes",
+            "chili pepper paste",
+            "chili pepper sauce",
+            "chili powder",
+            "chili sauce",
+            "chipotle",
+            "chipotle; chili paste",
+            "chipotle; chili pepper flakes",
+            "dried",
+            "dried ancho",
+            "dried red",
+            "fresh",
+            "fresh green",
+            "fresh red",
+            "fresh;",
+            "fresno",
+            "green",
+            "green chili pepper flakes",
+            "green;",
+            "green; chili pepper flakes",
+            "guajillo",
+            "habanero",
+            "habenero",
+            "indian",
+            "jalapeno",
+            "jalape\u00f1o",
+            "jalape\u00f1o chili pepper sauce",
+            "jalape\u00f1o or serrano",
+            "jalape\u00f1o;",
+            "jalape\u00f1o; chili pepper flakes",
+            "jalape\u00f1o; chili pepper flakes or chili powder",
+            "jalape\u00f1o; chili pepper flakes; chili pepper",
+            "jalape\u00f1o; chili pepper paste",
+            "jalape\u00f1o; chili pepper sauce",
+            "jalape\u00f1os",
+            "milder",
+            "or",
+            "or serrano",
+            "orange",
+            "piquillo",
+            "poblano",
+            "poblano; chili pepper flakes",
+            "red",
+            "red;",
+            "red; chili paste",
+            "red; chili pepper flakes",
+            "roasted",
+            "scotch",
+            "scotch bonnet",
+            "scotch bonnet;",
+            "serrano",
+            "serrano;",
+            "serrano; chili oil",
+            "serrano; chili paste",
+            "serrano; chili pepper flakes",
+            "thai",
+            "thai;",
+            "thai; chili pepper flakes / chili",
+            "thai; chili pepper paste"
+        ]
+    },
+    {
+        "name":"chiles, other",
+        "items":[
+            "ancho",
+            "ancho chiles",
+            "chili powder",
+            "chipotle",
+            "guajillo"
+        ]
+    },
+    {
+        "name":"chiles, other",
+        "items":[
+            "chipotle"
+        ]
+    },
+    {
+        "name":"chili powder",
+        "items":[
+            "chipotle"
+        ]
+    },
+    {
+        "name":"chili sauce",
+        "items":[
+            "flakes",
+            "oil",
+            "paste",
+            "pepper flakes",
+            "powder",
+            "thai sweet"
+        ]
+    },
+    {
+        "name":"chocolate",
+        "items":[
+            "bitter",
+            "dark",
+            "milk",
+            "white"
+        ]
+    },
+    {
+        "name":"chocolate, other",
+        "items":[
+            "dark"
+        ]
+    },
+    {
+        "name":"cider",
+        "items":[
+            "apple"
+        ]
+    },
+    {
+        "name":"cinnamon",
+        "items":[
+            "ceylon"
+        ]
+    },
+    {
+        "name":"citrus",
+        "items":[
+            "(bitter) orange",
+            "*lime",
+            "grapefruit",
+            "i.e.",
+            "juice",
+            "juices",
+            "kumquats",
+            "lemon",
+            "lime",
+            "orange",
+            "oranges",
+            "sour orange",
+            "tangerine",
+            "tangerine; juice",
+            "zest"
+        ]
+    },
+    {
+        "name":"citrus fruits, other",
+        "items":[
+            "grapefruit",
+            "lemon",
+            "lime",
+            "orange"
+        ]
+    },
+    {
+        "name":"citrus, other",
+        "items":[
+            "limes",
+            "regular oranges"
+        ]
+    },
+    {
+        "name":"coconut",
+        "items":[
+            "butter",
+            "cream",
+            "fruit",
+            "milk",
+            "oil",
+            "sugar",
+            "water"
+        ]
+    },
+    {
+        "name":"coffee",
+        "items":[
+            "turkish coffee"
+        ]
+    },
+    {
+        "name":"corn",
+        "items":[
+            "corn on the cob",
+            "grilled",
+            "on the cob",
+            "summer sweet"
+        ]
+    },
+    {
+        "name":"cornmeal",
+        "items":[
+            "as corn bread",
+            "to crust"
+        ]
+    },
+    {
+        "name":"couscous",
+        "items":[
+            "israeli",
+            "whole-wheat"
+        ]
+    },
+    {
+        "name":"cranberries",
+        "items":[
+            "cranberry juice",
+            "dried",
+            "fresh",
+            "juice"
+        ]
+    },
+    {
+        "name":"cress",
+        "items":[
+            "land",
+            "pepper"
+        ]
+    },
+    {
+        "name":"croutons",
+        "items":[
+            "pumpernickel",
+            "rye",
+            "whole grain",
+            "whole-grain"
+        ]
+    },
+    {
+        "name":"cucumbers",
+        "items":[
+            "sliced"
+        ]
+    },
+    {
+        "name":"cumin",
+        "items":[
+            "toasted"
+        ]
+    },
+    {
+        "name":"currants",
+        "items":[
+            "black",
+            "dried"
+        ]
+    },
+    {
+        "name":"curries",
+        "items":[
+            "green"
+        ]
+    },
+    {
+        "name":"curry",
+        "items":[
+            "oil",
+            "paste",
+            "powder",
+            "spices"
+        ]
+    },
+    {
+        "name":"curry paste, powder, spices, curries",
+        "items":[
+            "thai"
+        ]
+    },
+    {
+        "name":"curry spices",
+        "items":[
+            "coriander",
+            "cumin"
+        ]
+    },
+    {
+        "name":"dairy products",
+        "items":[
+            "butter",
+            "cream"
+        ]
+    },
+    {
+        "name":"dried fruit, other",
+        "items":[
+            "cherries",
+            "currants",
+            "plums",
+            "raisins"
+        ]
+    },
+    {
+        "name":"dumplings",
+        "items":[
+            "asian",
+            "potstickers"
+        ]
+    },
+    {
+        "name":"eggplant",
+        "items":[
+            "aba ghanoush",
+            "asian",
+            "japanese"
+        ]
+    },
+    {
+        "name":"endive",
+        "items":[
+            "belgian",
+            "curly",
+            "red"
+        ]
+    },
+    {
+        "name":"esp. winter",
+        "items":[
+            "butternut",
+            "delicata",
+            "kabocha"
+        ]
+    },
+    {
+        "name":"fennel",
+        "items":[
+            "pureed"
+        ]
+    },
+    {
+        "name":"figs",
+        "items":[
+            "dried"
+        ]
+    },
+    {
+        "name":"flax",
+        "items":[
+            "oil",
+            "seeds"
+        ]
+    },
+    {
+        "name":"flour, heavier",
+        "items":[
+            "buckwheat"
+        ]
+    },
+    {
+        "name":"flours",
+        "items":[
+            "brown rice",
+            "lentil",
+            "rice",
+            "spelt",
+            "whole wheat"
+        ]
+    },
+    {
+        "name":"fruit juice, esp. concentrated",
+        "items":[
+            "fruit syrup"
+        ]
+    },
+    {
+        "name":"fruit, dried",
+        "items":[
+            "apricots",
+            "cherries",
+            "cranberries",
+            "currants",
+            "dates",
+            "plums",
+            "raisins"
+        ]
+    },
+    {
+        "name":"fruit, esp. tropical",
+        "items":[
+            "mango",
+            "pineapple"
+        ]
+    },
+    {
+        "name":"fruit, fresh",
+        "items":[
+            "bananas",
+            "berries",
+            "pineapple"
+        ]
+    },
+    {
+        "name":"fruit, other dried",
+        "items":[
+            "apricots",
+            "figs"
+        ]
+    },
+    {
+        "name":"fruit, tree",
+        "items":[
+            "apples",
+            "pears"
+        ]
+    },
+    {
+        "name":"fruit, tropical",
+        "items":[
+            "citrus",
+            "dried",
+            "fresh",
+            "juice",
+            "other",
+            "papaya",
+            "pineapple",
+            "poached",
+            "sour"
+        ]
+    },
+    {
+        "name":"fruits",
+        "items":[
+            "apples",
+            "bananas",
+            "cooked",
+            "dried",
+            "fresh",
+            "mangoes",
+            "melons",
+            "mostardo",
+            "oranges",
+            "papayas",
+            "peaches",
+            "pears",
+            "pineapple",
+            "poached",
+            "roasted"
+        ]
+    },
+    {
+        "name":"fruits, dried",
+        "items":[
+            "cranberries",
+            "dried apricots",
+            "raisins"
+        ]
+    },
+    {
+        "name":"fruits, dried",
+        "items":[
+            "cherries",
+            "cranberries",
+            "currants",
+            "dates",
+            "figs",
+            "peaches",
+            "plums",
+            "raisins"
+        ]
+    },
+    {
+        "name":"fruits, esp. fresh, tropical",
+        "items":[
+            "guavas",
+            "lychees",
+            "mangoes",
+            "papayas",
+            "passion fruit",
+            "pineapple"
+        ]
+    },
+    {
+        "name":"fruits, other tropical",
+        "items":[
+            "kiwi",
+            "mango",
+            "papaya",
+            "pineapple",
+            "star fruit"
+        ]
+    },
+    {
+        "name":"garlic",
+        "items":[
+            "fresh",
+            "green",
+            "powder",
+            "roasted",
+            "scapes",
+            "spring",
+            "white",
+            "wild"
+        ]
+    },
+    {
+        "name":"ginger",
+        "items":[
+            "pickled"
+        ]
+    },
+    {
+        "name":"goji berries",
+        "items":[
+            "dried"
+        ]
+    },
+    {
+        "name":"graham cracker",
+        "items":[
+            "crust"
+        ]
+    },
+    {
+        "name":"grains",
+        "items":[
+            "amaranth",
+            "barley",
+            "brown rice",
+            "buckwheat",
+            "bulgur",
+            "couscous",
+            "farro",
+            "kamut",
+            "kasha",
+            "millet",
+            "oats",
+            "pearl barley",
+            "pearled",
+            "pearled barley",
+            "quinoa",
+            "rice",
+            "rye berries",
+            "spelt",
+            "teff",
+            "wheat berries",
+            "wild rice"
+        ]
+    },
+    {
+        "name":"grains, other larger",
+        "items":[
+            "barley",
+            "millet",
+            "rice"
+        ]
+    },
+    {
+        "name":"grains, other milder",
+        "items":[
+            "barley",
+            "brown rice",
+            "bulgur",
+            "corn",
+            "cracked wheat",
+            "millet",
+            "oats",
+            "quieter-flavored",
+            "quinoa",
+            "rice"
+        ]
+    },
+    {
+        "name":"grains, other whole",
+        "items":[
+            "barley",
+            "buckwheat",
+            "farro",
+            "millet",
+            "oats",
+            "rye",
+            "wheat berries",
+            "wild rice"
+        ]
+    },
+    {
+        "name":"grains, other, less chewy",
+        "items":[
+            "barley",
+            "brown rice",
+            "quinoa"
+        ]
+    },
+    {
+        "name":"grains, whole",
+        "items":[
+            "amaranth",
+            "barley",
+            "brown rice",
+            "buckwheat",
+            "bulgur",
+            "couscous",
+            "farro",
+            "hulled barley",
+            "kasha",
+            "long-grain rice",
+            "millet",
+            "oats",
+            "pearl barley",
+            "quinoa",
+            "rice",
+            "rye",
+            "spelt",
+            "spelt berries",
+            "wheat",
+            "wheat berries",
+            "wheat berrries"
+        ]
+    },
+    {
+        "name":"grapefruit",
+        "items":[
+            "fruit",
+            "juice",
+            "zest"
+        ]
+    },
+    {
+        "name":"grapes",
+        "items":[
+            "red",
+            "white"
+        ]
+    },
+    {
+        "name":"greens",
+        "items":[
+            "amaranth",
+            "arugula",
+            "asian",
+            "baby",
+            "beet",
+            "bitter",
+            "bitter (e.g.",
+            "braised",
+            "carrot",
+            "collard",
+            "collard) or salad",
+            "dandelion",
+            "leafy",
+            "mesclun",
+            "mixed",
+            "mizuna",
+            "mustard",
+            "m\u00e2che",
+            "other",
+            "other salad",
+            "radish",
+            "salad",
+            "spring",
+            "stewed",
+            "stronger",
+            "turnip",
+            "watercress",
+            "winter"
+        ]
+    },
+    {
+        "name":"greens, asian",
+        "items":[
+            "bok choy"
+        ]
+    },
+    {
+        "name":"greens, bitter",
+        "items":[
+            "amaranth",
+            "beet",
+            "collard",
+            "dandelion",
+            "mustard",
+            "or turnip",
+            "saut\u00e9ed",
+            "turnip",
+            "turnips"
+        ]
+    },
+    {
+        "name":"greens, bitter or salad",
+        "items":[
+            "baby",
+            "mesclun"
+        ]
+    },
+    {
+        "name":"greens, other",
+        "items":[
+            "bok choy",
+            "chard or kale",
+            "collard",
+            "dandelion",
+            "milder",
+            "mizuna",
+            "mustard"
+        ]
+    },
+    {
+        "name":"greens, other",
+        "items":[
+            "dandelion",
+            "milder (e.g.",
+            "spinach)"
+        ]
+    },
+    {
+        "name":"greens, other salad",
+        "items":[
+            "mesclun"
+        ]
+    },
+    {
+        "name":"greens, salad, esp. asian",
+        "items":[
+            "arugula",
+            "baby bok choy",
+            "baby chard",
+            "fris\u00e9e",
+            "mesclun",
+            "mizuna",
+            "tatsoi"
+        ]
+    },
+    {
+        "name":"greens, winter",
+        "items":[
+            "mustard"
+        ]
+    },
+    {
+        "name":"herbs",
+        "items":[
+            "basil",
+            "chervil",
+            "chives",
+            "cilantro",
+            "dill",
+            "fines herbes",
+            "fresh",
+            "lemon thyme",
+            "marjoram",
+            "oregano",
+            "parsley",
+            "rosemary",
+            "sage",
+            "tarragon",
+            "thyme"
+        ]
+    },
+    {
+        "name":"herbs, cooling",
+        "items":[
+            "basil",
+            "cilantro",
+            "dill",
+            "fennel",
+            "licorice",
+            "marjoram",
+            "mint"
+        ]
+    },
+    {
+        "name":"herbs, delicate",
+        "items":[
+            "chervil",
+            "chives",
+            "parsley",
+            "tarragon"
+        ]
+    },
+    {
+        "name":"herbs, fresh",
+        "items":[
+            "basil",
+            "chives",
+            "cilantro",
+            "dill",
+            "parsley"
+        ]
+    },
+    {
+        "name":"herbs, other",
+        "items":[
+            "as a blending herb",
+            "basil",
+            "mint",
+            "parsley",
+            "tarragon"
+        ]
+    },
+    {
+        "name":"ice cream",
+        "items":[
+            "vanilla"
+        ]
+    },
+    {
+        "name":"juice, fruit",
+        "items":[
+            "apple",
+            "pear"
+        ]
+    },
+    {
+        "name":"juice, vegetable",
+        "items":[
+            "cauliflower"
+        ]
+    },
+    {
+        "name":"juices",
+        "items":[
+            "tomato",
+            "vegetable"
+        ]
+    },
+    {
+        "name":"kale",
+        "items":[
+            "baby",
+            "black",
+            "braised",
+            "green",
+            "tuscan"
+        ]
+    },
+    {
+        "name":"legumes",
+        "items":[
+            "adzuki or black beans",
+            "beans (e.g.",
+            "black",
+            "black-eyed peas",
+            "chickpeas",
+            "kidney",
+            "lentils",
+            "split peas",
+            "white)"
+        ]
+    },
+    {
+        "name":"lemon",
+        "items":[
+            "caramelized",
+            "fresh",
+            "juice",
+            "oil",
+            "preserved",
+            "zest"
+        ]
+    },
+    {
+        "name":"lemon herbs",
+        "items":[
+            "lemon balm",
+            "lemon verbena"
+        ]
+    },
+    {
+        "name":"lemon, fresh",
+        "items":[
+            "juice"
+        ]
+    },
+    {
+        "name":"lemon, meyer",
+        "items":[
+            "juice",
+            "zest"
+        ]
+    },
+    {
+        "name":"lemons",
+        "items":[
+            "fresh",
+            "juice",
+            "meyer",
+            "preserved",
+            "zest"
+        ]
+    },
+    {
+        "name":"lemony herbs",
+        "items":[
+            "balm",
+            "thyme",
+            "verbena"
+        ]
+    },
+    {
+        "name":"lentils",
+        "items":[
+            "beluga",
+            "black",
+            "brown",
+            "french",
+            "green",
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "name":"lentils",
+        "items":[
+            "red"
+        ]
+    },
+    {
+        "name":"lettuce",
+        "items":[
+            "bibb",
+            "boston",
+            "butter",
+            "green leaf",
+            "iceberg",
+            "lamb\u2019s",
+            "mizuna",
+            "red leaf",
+            "romaine"
+        ]
+    },
+    {
+        "name":"lettuce, mild",
+        "items":[
+            "bibb",
+            "butter",
+            "romaine"
+        ]
+    },
+    {
+        "name":"lettuces",
+        "items":[
+            "butter",
+            "lamb\u2019s",
+            "mesclun",
+            "mixed",
+            "oak leaf",
+            "romaine",
+            "spring"
+        ]
+    },
+    {
+        "name":"lettuces\u2014in general or mixed (see also specific lettuces",
+        "items":[
+            "butter; lettuce",
+            "lettuce",
+            "romaine)"
+        ]
+    },
+    {
+        "name":"lime",
+        "items":[
+            "juice",
+            "kaffir",
+            "zest"
+        ]
+    },
+    {
+        "name":"lime",
+        "items":[
+            "juice"
+        ]
+    },
+    {
+        "name":"limes",
+        "items":[
+            "juice",
+            "zest"
+        ]
+    },
+    {
+        "name":"liqueur, anise-flavored",
+        "items":[
+            "amaretto",
+            "grand marnier",
+            "pernod"
+        ]
+    },
+    {
+        "name":"liqueurs",
+        "items":[
+            "almond",
+            "berry",
+            "brandy",
+            "brandy (e.g.",
+            "cognac",
+            "cointreau",
+            "cr\u00e8me de cassis",
+            "cr\u00e8me de menthe",
+            "cura\u00e7ao",
+            "framboise",
+            "grand marnier",
+            "irish whiskey",
+            "kirsch",
+            "nut",
+            "orange",
+            "plum)",
+            "rum (esp. dark)",
+            "tequila"
+        ]
+    },
+    {
+        "name":"liqueurs, orange",
+        "items":[
+            "*armagnac",
+            "apple",
+            "brandy (e.g.",
+            "cognac",
+            "cointreau",
+            "grand marnier",
+            "pear)"
+        ]
+    },
+    {
+        "name":"mandarin oranges",
+        "items":[
+            "juice",
+            "zest"
+        ]
+    },
+    {
+        "name":"mangoes",
+        "items":[
+            "green",
+            "ripe"
+        ]
+    },
+    {
+        "name":"mayonnaise",
+        "items":[
+            "vegan"
+        ]
+    },
+    {
+        "name":"melon",
+        "items":[
+            "bitter",
+            "cantaloupe",
+            "honeydew"
+        ]
+    },
+    {
+        "name":"melon, other",
+        "items":[
+            "cantaloupe",
+            "honeydew"
+        ]
+    },
+    {
+        "name":"melons",
+        "items":[
+            "cantaloupe",
+            "honeydew"
+        ]
+    },
+    {
+        "name":"meyer lemons",
+        "items":[
+            "juice",
+            "zest"
+        ]
+    },
+    {
+        "name":"milk",
+        "items":[
+            "almond",
+            "cashew",
+            "coconut",
+            "dairy",
+            "goat\u2019s",
+            "hemp",
+            "hemp seed",
+            "in coffee)",
+            "nondairy (almond",
+            "nondairy (e.g.",
+            "other nondairy",
+            "rice",
+            "rice)",
+            "soy",
+            "soy)",
+            "sweetened condensed (e.g."
+        ]
+    },
+    {
+        "name":"milk, dairy or non-dairy",
+        "items":[
+            "rice or soy"
+        ]
+    },
+    {
+        "name":"milk, dairy or nondairy",
+        "items":[
+            "almond",
+            "cashew",
+            "coconut",
+            "hemp",
+            "rice",
+            "soy"
+        ]
+    },
+    {
+        "name":"milk, nondairy",
+        "items":[
+            "almond",
+            "rice",
+            "soy"
+        ]
+    },
+    {
+        "name":"mint",
+        "items":[
+            "dried"
+        ]
+    },
+    {
+        "name":"miso",
+        "items":[
+            "barley",
+            "dark",
+            "dark or red",
+            "light",
+            "red",
+            "sweet",
+            "sweet white",
+            "white",
+            "yellow"
+        ]
+    },
+    {
+        "name":"miso",
+        "items":[
+            "light"
+        ]
+    },
+    {
+        "name":"mushrooms",
+        "items":[
+            "asian",
+            "black",
+            "black trumpet",
+            "brown",
+            "button",
+            "chanterelle",
+            "chicken of the woods",
+            "chinese",
+            "cremini",
+            "dried",
+            "dried or fresh; mixed",
+            "e.g.",
+            "enoki",
+            "hedgehog",
+            "hen of the woods",
+            "king oyster",
+            "lobster",
+            "maitake",
+            "matsutake",
+            "morel",
+            "morels",
+            "oyster",
+            "oyster (e.g.",
+            "porchini",
+            "porcini",
+            "porcini or portobello",
+            "porcini or shiitake",
+            "portabello",
+            "portobello",
+            "shiitake",
+            "shirataki",
+            "smoked",
+            "smoked)",
+            "stuffed",
+            "trumpet",
+            "white",
+            "white noodles",
+            "wild",
+            "wood ear"
+        ]
+    },
+    {
+        "name":"mushrooms, other",
+        "items":[
+            "button",
+            "cremini",
+            "enoki",
+            "lobster",
+            "maitake",
+            "oyster",
+            "porcini",
+            "portobello",
+            "shiitake",
+            "white",
+            "wild"
+        ]
+    },
+    {
+        "name":"mushrooms, other",
+        "items":[
+            "maitake",
+            "oyster",
+            "portobello",
+            "shiitake"
+        ]
+    },
+    {
+        "name":"mushrooms, wild",
+        "items":[
+            "morel"
+        ]
+    },
+    {
+        "name":"mustard",
+        "items":[
+            "and/or whole-grain",
+            "creamy dijon",
+            "dijon",
+            "dijon (see also greens",
+            "dijon or seeds",
+            "dried",
+            "dry",
+            "grainy",
+            "mustard powder",
+            "mustard seeds",
+            "mustard; mustard powder; mustard seeds)",
+            "oil",
+            "pommery",
+            "powder",
+            "powdered",
+            "seeds",
+            "spicy",
+            "whole-grain",
+            "yellow"
+        ]
+    },
+    {
+        "name":"mustard",
+        "items":[
+            "dijon",
+            "dry",
+            "prepared; mustard seeds"
+        ]
+    },
+    {
+        "name":"mustard seeds",
+        "items":[
+            "black"
+        ]
+    },
+    {
+        "name":"noodles, asian",
+        "items":[
+            "asian",
+            "brown rice or soba",
+            "buckwheat",
+            "chilled",
+            "egg",
+            "japanese",
+            "kelp",
+            "mung bean",
+            "pad thai",
+            "ramen",
+            "rice",
+            "rice noodles",
+            "rice vermicelli",
+            "shirataki",
+            "soba",
+            "somen",
+            "stir-fried",
+            "udon",
+            "wheat"
+        ]
+    },
+    {
+        "name":"noodles, asian rice",
+        "items":[
+            "asian",
+            "brown",
+            "pad thai",
+            "rice",
+            "soba",
+            "udon"
+        ]
+    },
+    {
+        "name":"noodles, esp. asian",
+        "items":[
+            "buckwheat",
+            "chinese egg",
+            "ramen or udon",
+            "rice",
+            "soba",
+            "udon"
+        ]
+    },
+    {
+        "name":"nori",
+        "items":[
+            "strips"
+        ]
+    },
+    {
+        "name":"nut butters",
+        "items":[
+            "almond",
+            "almonds",
+            "brazil",
+            "cashew",
+            "cashews",
+            "hazelnuts",
+            "macadamia",
+            "peanut",
+            "peanuts",
+            "pecans",
+            "pine",
+            "walnut",
+            "walnuts"
+        ]
+    },
+    {
+        "name":"nuts",
+        "items":[
+            "almond",
+            "almonds",
+            "brazil",
+            "cashew",
+            "cashews",
+            "hazelnuts",
+            "lmonds",
+            "macadamia",
+            "macadamia nuts",
+            "macadamias",
+            "nut butters",
+            "peanut butter",
+            "peanuts",
+            "pecans",
+            "pine nuts",
+            "pistachios",
+            "walnuts"
+        ]
+    },
+    {
+        "name":"nuts, nut butters, nut milks",
+        "items":[
+            "almonds",
+            "macadamias",
+            "peanuts",
+            "pecans",
+            "walnuts"
+        ]
+    },
+    {
+        "name":"nuts, other",
+        "items":[
+            "almonds",
+            "cashews",
+            "hazelnuts",
+            "pistachios",
+            "walnuts"
+        ]
+    },
+    {
+        "name":"nuts, raw",
+        "items":[
+            "cashews",
+            "macadamia"
+        ]
+    },
+    {
+        "name":"oil",
+        "items":[
+            "almond",
+            "avocado",
+            "canola",
+            "chili",
+            "chive",
+            "coconut",
+            "corn",
+            "flax",
+            "flax seed",
+            "flaxseed",
+            "grape seed",
+            "grapeseed",
+            "hazelnut",
+            "hemp",
+            "lemon",
+            "macadamia nut",
+            "mustard",
+            "nut",
+            "olive",
+            "or sesame",
+            "orange",
+            "peanut",
+            "peanut (e.g.",
+            "peanut (esp. roasted)",
+            "pecan",
+            "pine nut",
+            "pistachio",
+            "porcini",
+            "pumpkin seed",
+            "red chili",
+            "roasted peanut",
+            "roasted)",
+            "safflower",
+            "scallion",
+            "sesame",
+            "sesame (e.g.",
+            "sunflower",
+            "sunflower seed",
+            "toasted)",
+            "truffle",
+            "truffle (e.g.",
+            "vegetable",
+            "walnut",
+            "white truffle",
+            "white)"
+        ]
+    },
+    {
+        "name":"oil, nut",
+        "items":[
+            "almond or walnut",
+            "hazelnut",
+            "olive",
+            "peanut",
+            "pecan",
+            "pine nut",
+            "walnut"
+        ]
+    },
+    {
+        "name":"oil, other",
+        "items":[
+            "canola",
+            "olive",
+            "sunflower"
+        ]
+    },
+    {
+        "name":"oil, other quieter",
+        "items":[
+            "olive"
+        ]
+    },
+    {
+        "name":"oil, vegetable",
+        "items":[
+            "olive"
+        ]
+    },
+    {
+        "name":"oils",
+        "items":[
+            "canola",
+            "coconut",
+            "corn",
+            "flaxseed",
+            "grapeseed",
+            "hazelnut",
+            "nut",
+            "olive",
+            "olive (esp. extra-virgin)",
+            "peanut",
+            "pecan",
+            "pumpkin seed",
+            "safflower",
+            "sesame",
+            "sunflower",
+            "truffle",
+            "vegetable",
+            "walnut"
+        ]
+    },
+    {
+        "name":"oils, other",
+        "items":[
+            "achiote",
+            "almond",
+            "canola",
+            "coconut",
+            "hazelnut",
+            "neutral",
+            "nut",
+            "olive",
+            "peanut",
+            "sesame",
+            "vegetable",
+            "walnut"
+        ]
+    },
+    {
+        "name":"oils, other quieter",
+        "items":[
+            "vegetable"
+        ]
+    },
+    {
+        "name":"olives",
+        "items":[
+            "black",
+            "french",
+            "greek",
+            "green",
+            "italian",
+            "kalamata",
+            "ni\u00e7oise"
+        ]
+    },
+    {
+        "name":"onions",
+        "items":[
+            "bermuda",
+            "caramelized",
+            "caramelized,red",
+            "cipollini",
+            "cippolini",
+            "green",
+            "maui",
+            "pearl",
+            "pickled",
+            "powder",
+            "raw",
+            "red",
+            "sliced",
+            "spanish",
+            "spring",
+            "sweet",
+            "vidalia",
+            "white",
+            "wild",
+            "yellow"
+        ]
+    },
+    {
+        "name":"onions",
+        "items":[
+            "green or red",
+            "red",
+            "white"
+        ]
+    },
+    {
+        "name":"orange juice",
+        "items":[
+            "blood",
+            "navel"
+        ]
+    },
+    {
+        "name":"oranges, esp. blood oranges",
+        "items":[
+            "juice",
+            "zest"
+        ]
+    },
+    {
+        "name":"oregano",
+        "items":[
+            "dried",
+            "greek",
+            "mexican"
+        ]
+    },
+    {
+        "name":"papaya",
+        "items":[
+            "green",
+            "red"
+        ]
+    },
+    {
+        "name":"paprika",
+        "items":[
+            "hot",
+            "smoked",
+            "spanish",
+            "sweet"
+        ]
+    },
+    {
+        "name":"parsley",
+        "items":[
+            "flat-leaf",
+            "italian"
+        ]
+    },
+    {
+        "name":"parsley",
+        "items":[
+            "flat-leaf"
+        ]
+    },
+    {
+        "name":"pasta",
+        "items":[
+            "farfalle",
+            "fettuccine",
+            "gnocchi",
+            "lasagna",
+            "linguini",
+            "orzo",
+            "pappardelle",
+            "penne",
+            "ravioli",
+            "rigatoni",
+            "spaghetti",
+            "whole grain"
+        ]
+    },
+    {
+        "name":"pasta, esp. whole grain",
+        "items":[
+            "fettuccine",
+            "orecchiette",
+            "penne",
+            "spaghettini"
+        ]
+    },
+    {
+        "name":"pears",
+        "items":[
+            "asian",
+            "asian or prickly",
+            "poached"
+        ]
+    },
+    {
+        "name":"peas",
+        "items":[
+            "english",
+            "green",
+            "split",
+            "spring",
+            "sweet"
+        ]
+    },
+    {
+        "name":"pecans",
+        "items":[
+            "spiced"
+        ]
+    },
+    {
+        "name":"persimmons",
+        "items":[
+            "fuyu"
+        ]
+    },
+    {
+        "name":"phyllo dough",
+        "items":[
+            "spelt",
+            "whole-wheat"
+        ]
+    },
+    {
+        "name":"pickled cabbage",
+        "items":[
+            "red"
+        ]
+    },
+    {
+        "name":"pineapple",
+        "items":[
+            "juice",
+            "ruit"
+        ]
+    },
+    {
+        "name":"pita",
+        "items":[
+            "whole-wheat"
+        ]
+    },
+    {
+        "name":"pizza",
+        "items":[
+            "neopolitan"
+        ]
+    },
+    {
+        "name":"plantains",
+        "items":[
+            "green"
+        ]
+    },
+    {
+        "name":"plums",
+        "items":[
+            "dried",
+            "fresh"
+        ]
+    },
+    {
+        "name":"pomegranate",
+        "items":[
+            "molasses",
+            "seeds"
+        ]
+    },
+    {
+        "name":"popcorn",
+        "items":[
+            "air-popped",
+            "\u201ccaramel corn\u201d"
+        ]
+    },
+    {
+        "name":"potatoes",
+        "items":[
+            "baked",
+            "baked potatoes",
+            "boiled",
+            "curried",
+            "fingerling",
+            "fried",
+            "mashed",
+            "new",
+            "red",
+            "steamed",
+            "sweet",
+            "white"
+        ]
+    },
+    {
+        "name":"radishes",
+        "items":[
+            "black",
+            "icicle"
+        ]
+    },
+    {
+        "name":"raisins",
+        "items":[
+            "brown",
+            "golden",
+            "yellow"
+        ]
+    },
+    {
+        "name":"rice",
+        "items":[
+            "arborio",
+            "basmati",
+            "basmati and/or brown",
+            "black",
+            "bomba",
+            "brown",
+            "brown or jasmine",
+            "brown or white",
+            "carnaroli;",
+            "dirty rice",
+            "glutinous",
+            "jasmine",
+            "long-grain",
+            "medium- or short-grain",
+            "red",
+            "rown",
+            "short- to medium-grain",
+            "short-grain",
+            "short-grain brown",
+            "sticky",
+            "sushi",
+            "sweet",
+            "white",
+            "white short-grain",
+            "wild"
+        ]
+    },
+    {
+        "name":"rices, other",
+        "items":[
+            "basmati",
+            "brown",
+            "long-grain brown",
+            "red"
+        ]
+    },
+    {
+        "name":"root vegetables, other",
+        "items":[
+            "carrots",
+            "celery root",
+            "etc.",
+            "parsnips",
+            "rutabagas",
+            "sweet potatoes",
+            "turnips"
+        ]
+    },
+    {
+        "name":"rye",
+        "items":[
+            "bread"
+        ]
+    },
+    {
+        "name":"sake",
+        "items":[
+            "dry"
+        ]
+    },
+    {
+        "name":"salad dressing",
+        "items":[
+            "lemon vinaigrette",
+            "vinaigrette"
+        ]
+    },
+    {
+        "name":"salad dressings",
+        "items":[
+            "blue cheese",
+            "caesar",
+            "vinaigrette",
+            "yogurt"
+        ]
+    },
+    {
+        "name":"salad dressings, esp. cheese-, lemon-, or vinegar-based",
+        "items":[
+            "vinaigrettes"
+        ]
+    },
+    {
+        "name":"salads",
+        "items":[
+            "beet",
+            "carrot",
+            "green"
+        ]
+    },
+    {
+        "name":"salsa",
+        "items":[
+            "tomato"
+        ]
+    },
+    {
+        "name":"salt",
+        "items":[
+            "fleur de sel",
+            "kosher",
+            "pink",
+            "rock",
+            "sea",
+            "smoked",
+            "truffle"
+        ]
+    },
+    {
+        "name":"salt",
+        "items":[
+            "sea"
+        ]
+    },
+    {
+        "name":"sandwiches",
+        "items":[
+            "sabich (eggplant + hard-boiled egg + hummus)",
+            "seitan"
+        ]
+    },
+    {
+        "name":"sauces",
+        "items":[
+            "barbecue",
+            "butter",
+            "cheese",
+            "chimichurri",
+            "cream",
+            "creamy",
+            "dessert",
+            "dipping",
+            "fruit",
+            "hollandaise",
+            "hot (e.g.",
+            "mayonnaise",
+            "oyster (vegetarian)",
+            "pasta",
+            "peanut",
+            "red wine",
+            "romesco",
+            "sriracha",
+            "sweet-and-sour",
+            "tabasco)",
+            "tahini",
+            "teriyaki",
+            "tomato"
+        ]
+    },
+    {
+        "name":"sauces",
+        "items":[
+            "black bean",
+            "hoisin"
+        ]
+    },
+    {
+        "name":"savory",
+        "items":[
+            "summer"
+        ]
+    },
+    {
+        "name":"sea vegetables, other",
+        "items":[
+            "arame",
+            "dried",
+            "dulse",
+            "grilled",
+            "hiziki",
+            "kelp",
+            "kombu",
+            "nori",
+            "roasted",
+            "wakame"
+        ]
+    },
+    {
+        "name":"seeds",
+        "items":[
+            "anise",
+            "black)",
+            "caraway",
+            "celery",
+            "flax",
+            "hemp",
+            "poppy",
+            "pumpkin",
+            "sesame",
+            "sesame (e.g.",
+            "sunflower",
+            "umpkin"
+        ]
+    },
+    {
+        "name":"seeds, other",
+        "items":[
+            "flax",
+            "hemp",
+            "poppy",
+            "pumpkin"
+        ]
+    },
+    {
+        "name":"seeds, sesame",
+        "items":[
+            "black",
+            "white"
+        ]
+    },
+    {
+        "name":"sesame",
+        "items":[
+            "butter",
+            "esp. in asian cuisines",
+            "oil",
+            "oil (esp. toasted)",
+            "paste",
+            "sauce",
+            "sauce (tahini)",
+            "seeds",
+            "seeds (black",
+            "white)"
+        ]
+    },
+    {
+        "name":"sesame seeds",
+        "items":[
+            "black",
+            "seeds",
+            "sesame paste",
+            "toasted",
+            "white"
+        ]
+    },
+    {
+        "name":"shiso",
+        "items":[
+            "red"
+        ]
+    },
+    {
+        "name":"shoots",
+        "items":[
+            "garlic",
+            "pea",
+            "snow pea"
+        ]
+    },
+    {
+        "name":"softer salad",
+        "items":[
+            "bibb"
+        ]
+    },
+    {
+        "name":"soups",
+        "items":[
+            "bean",
+            "hot-and-sour",
+            "lentil",
+            "vegetable"
+        ]
+    },
+    {
+        "name":"sour oranges",
+        "items":[
+            "blood",
+            "e.g.",
+            "fruit",
+            "juice",
+            "liqueur",
+            "mandarin",
+            "mandarins",
+            "orange juice",
+            "sections",
+            "tangerines",
+            "zest"
+        ]
+    },
+    {
+        "name":"soybeans",
+        "items":[
+            "black",
+            "fermented"
+        ]
+    },
+    {
+        "name":"spices, cooking",
+        "items":[
+            "peppercorns",
+            "white; turmeric"
+        ]
+    },
+    {
+        "name":"spices, warming",
+        "items":[
+            "black pepper",
+            "cayenne",
+            "chili powder",
+            "cinnamon",
+            "cloves",
+            "cumin",
+            "mustard powder",
+            "nutmeg",
+            "pepper",
+            "saffron"
+        ]
+    },
+    {
+        "name":"spirits",
+        "items":[
+            "apple brandy",
+            "applejack",
+            "armagnac",
+            "bourbon",
+            "brandy",
+            "calvados",
+            "cognac",
+            "cointreau",
+            "gin",
+            "kirsch",
+            "madeira",
+            "rum",
+            "sherry",
+            "vermouth"
+        ]
+    },
+    {
+        "name":"sprouts",
+        "items":[
+            "alfalfa",
+            "bean",
+            "buckwheat",
+            "daikon",
+            "daikon radish",
+            "mung bean",
+            "pea",
+            "radish",
+            "sunflower"
+        ]
+    },
+    {
+        "name":"sprouts, other",
+        "items":[
+            "broccoli",
+            "clover",
+            "radish"
+        ]
+    },
+    {
+        "name":"sprouts, other",
+        "items":[
+            "adzuki",
+            "alfalfa",
+            "lentil"
+        ]
+    },
+    {
+        "name":"squash, esp. winter",
+        "items":[
+            "acorn",
+            "butternut"
+        ]
+    },
+    {
+        "name":"squash, other winter",
+        "items":[
+            "butternut"
+        ]
+    },
+    {
+        "name":"squash, summer",
+        "items":[
+            "pattypan",
+            "yellow",
+            "zucchini",
+            "zucchini;"
+        ]
+    },
+    {
+        "name":"squash, summer or winter",
+        "items":[
+            "butternut"
+        ]
+    },
+    {
+        "name":"squash, winter",
+        "items":[
+            "acorn",
+            "buttercup",
+            "butternut",
+            "butternut)",
+            "calabaza",
+            "delicata",
+            "delicata)",
+            "e.g.",
+            "hubbard",
+            "kabocha",
+            "kambocha",
+            "spaghetti",
+            "summer",
+            "summer (esp. zucchini)",
+            "winter",
+            "winter (e.g.",
+            "winter (esp. butternut)",
+            "yellow"
+        ]
+    },
+    {
+        "name":"stock",
+        "items":[
+            "corn",
+            "fennel",
+            "mushroom",
+            "mushroom or vegetable",
+            "root vegetable",
+            "vegetable"
+        ]
+    },
+    {
+        "name":"stock",
+        "items":[
+            "mushroom",
+            "vegetable"
+        ]
+    },
+    {
+        "name":"stock, mushroom",
+        "items":[
+            "shiitake"
+        ]
+    },
+    {
+        "name":"stocks",
+        "items":[
+            "vegetable"
+        ]
+    },
+    {
+        "name":"stone fruits, other",
+        "items":[
+            "cherries",
+            "nectarines",
+            "peaches",
+            "plums"
+        ]
+    },
+    {
+        "name":"sugar",
+        "items":[
+            "brown",
+            "brown sugar snap peas",
+            "coconut",
+            "confectioners\u2019",
+            "date",
+            "maple",
+            "muscovado",
+            "organic",
+            "organic brown",
+            "palm",
+            "powdered",
+            "raw",
+            "turbinado",
+            "white"
+        ]
+    },
+    {
+        "name":"sushi",
+        "items":[
+            "nori rolls"
+        ]
+    },
+    {
+        "name":"sweeteners",
+        "items":[
+            "agave nectar",
+            "brown sugar",
+            "maple syrup",
+            "mirin"
+        ]
+    },
+    {
+        "name":"tamari",
+        "items":[
+            "low-sodium"
+        ]
+    },
+    {
+        "name":"tamarind",
+        "items":[
+            "paste"
+        ]
+    },
+    {
+        "name":"teas",
+        "items":[
+            "green",
+            "mint"
+        ]
+    },
+    {
+        "name":"tempeh",
+        "items":[
+            "smoked",
+            "tempeh bacon or"
+        ]
+    },
+    {
+        "name":"tofu",
+        "items":[
+            "baked",
+            "extra firm",
+            "extra-firm",
+            "firm",
+            "in scrambles",
+            "omelets",
+            "raw",
+            "scrambles",
+            "served chilled",
+            "silken",
+            "smoked",
+            "soft"
+        ]
+    },
+    {
+        "name":"tofu",
+        "items":[
+            "grilled",
+            "smoked"
+        ]
+    },
+    {
+        "name":"tomatoes",
+        "items":[
+            "broiled",
+            "cherry",
+            "cherry or grape",
+            "fresh",
+            "grape",
+            "green",
+            "green or red",
+            "paste",
+            "plum",
+            "red",
+            "sauce",
+            "stuffed",
+            "sun-dried",
+            "tomato paste",
+            "yellow"
+        ]
+    },
+    {
+        "name":"tomatoes",
+        "items":[
+            "juice",
+            "paste"
+        ]
+    },
+    {
+        "name":"tortillas",
+        "items":[
+            "corn",
+            "whole wheat",
+            "whole-grain"
+        ]
+    },
+    {
+        "name":"truffles",
+        "items":[
+            "black",
+            "oil",
+            "salt",
+            "white"
+        ]
+    },
+    {
+        "name":"vegetables",
+        "items":[
+            "baby",
+            "boiled",
+            "broccoli",
+            "chinese",
+            "cold/raw",
+            "e.g.",
+            "eggplant",
+            "green",
+            "grilled",
+            "kimchi)",
+            "lighter",
+            "marinated",
+            "mixed",
+            "other root",
+            "pickled (e.g.",
+            "roasted",
+            "root",
+            "saut\u00e9ed",
+            "spring",
+            "steamed",
+            "stir-fried",
+            "summer",
+            "turnips",
+            "warm/steamed",
+            "winter",
+            "zucchini"
+        ]
+    },
+    {
+        "name":"vegetables, esp. root",
+        "items":[
+            "turnips"
+        ]
+    },
+    {
+        "name":"vegetables, root",
+        "items":[
+            "beets",
+            "celery root",
+            "parsnips",
+            "turnips"
+        ]
+    },
+    {
+        "name":"vegetables, summer",
+        "items":[
+            "corn",
+            "tomatoes",
+            "zucchini"
+        ]
+    },
+    {
+        "name":"vegetables, sweet",
+        "items":[
+            "beets",
+            "carrots",
+            "corn",
+            "peas"
+        ]
+    },
+    {
+        "name":"vinaigrette",
+        "items":[
+            "citrus"
+        ]
+    },
+    {
+        "name":"vinegar",
+        "items":[
+            "apple",
+            "apple cider",
+            "balsamic",
+            "balsamic (black or white)",
+            "balsamic or rice",
+            "balsamic or rice wine",
+            "balsamic or sherry",
+            "balsamic or white balsamic",
+            "black",
+            "brown",
+            "brown rice",
+            "champagne",
+            "champagne or white wine",
+            "chinese black",
+            "cider",
+            "fig",
+            "fig balsamic",
+            "fruit",
+            "herb",
+            "malt",
+            "milder",
+            "or umeboshi",
+            "or wine",
+            "pedro xim\u00e9nez sherry",
+            "raspberry",
+            "red",
+            "red wine",
+            "red/white wine",
+            "regular or white",
+            "rice",
+            "rice wine",
+            "sherry",
+            "tarragon",
+            "umeboshi",
+            "white",
+            "white balsamic",
+            "white wine",
+            "wine"
+        ]
+    },
+    {
+        "name":"vinegar, esp. fruit",
+        "items":[
+            "apple",
+            "raspberry"
+        ]
+    },
+    {
+        "name":"vinegar, other",
+        "items":[
+            "balsamic",
+            "red wine",
+            "white wine"
+        ]
+    },
+    {
+        "name":"vinegars, other",
+        "items":[
+            "e.g.",
+            "red wine",
+            "sherry",
+            "stronger"
+        ]
+    },
+    {
+        "name":"vinegars, wine",
+        "items":[
+            "apple cider",
+            "balsamic",
+            "red",
+            "red wine",
+            "rice",
+            "white",
+            "white balsamic",
+            "wine"
+        ]
+    },
+    {
+        "name":"walnuts",
+        "items":[
+            "spiced walnuts"
+        ]
+    },
+    {
+        "name":"wheat",
+        "items":[
+            "noodles (esp. in northern china)"
+        ]
+    },
+    {
+        "name":"wine",
+        "items":[
+            "and/or white (e.g.",
+            "beaujolais",
+            "beaujolais)",
+            "champagne",
+            "champagne)",
+            "champagne,",
+            "champagne; sweet",
+            "dry",
+            "dry red",
+            "dry red or white",
+            "dry sherry",
+            "dry white",
+            "dry white or madeira",
+            "e.g.",
+            "fruity",
+            "fruity red (e.g.",
+            "madeira",
+            "marsala",
+            "moscato d\u2019asti",
+            "moscato d\u2019asti)",
+            "mulled",
+            "mulled wine",
+            "muscat",
+            "or sherry",
+            "plum",
+            "port",
+            "port (e.g.",
+            "port)",
+            "red",
+            "red or white",
+            "red; sparkling",
+            "rice",
+            "riesling",
+            "rose",
+            "sauternes)",
+            "sherry",
+            "sparkling",
+            "sparkling (e.g.",
+            "sparkling and/or sweet",
+            "still or sparkling",
+            "sweet",
+            "sweet (e.g.",
+            "sweet white (e.g.",
+            "tawny)",
+            "white"
+        ]
+    },
+    {
+        "name":"wine, dry",
+        "items":[
+            "sherry"
+        ]
+    },
+    {
+        "name":"wine, dry to off-dry white",
+        "items":[
+            "alsatian riesling"
+        ]
+    },
+    {
+        "name":"wine, fortified",
+        "items":[
+            "madeira or marsala"
+        ]
+    },
+    {
+        "name":"wine, red",
+        "items":[
+            "dry or sweet",
+            "e.g.",
+            "port"
+        ]
+    },
+    {
+        "name":"wine, red or white; fruity, sparkling, and/or sweet",
+        "items":[
+            "champagne",
+            "prosecco",
+            "sauternes"
+        ]
+    },
+    {
+        "name":"wine, red or white\u2014dry or sweet",
+        "items":[
+            "port"
+        ]
+    },
+    {
+        "name":"wine, rice",
+        "items":[
+            "sake"
+        ]
+    },
+    {
+        "name":"wine, sparkling",
+        "items":[
+            "champagne",
+            "champagne;"
+        ]
+    },
+    {
+        "name":"wine, sweet",
+        "items":[
+            "banyuls",
+            "gr\u00fcner veltliner",
+            "ice wine",
+            "madeira",
+            "moscato d\u2019asti",
+            "muscat",
+            "pedro xim\u00e9nez sherry",
+            "port",
+            "red",
+            "sherry",
+            "sweet"
+        ]
+    },
+    {
+        "name":"yogurt",
+        "items":[
+            "greek",
+            "low-fat",
+            "low-fat or sheep\u2019s milk",
+            "strained (aka labneh)"
+        ]
+    },
+    {
+        "name":"yuzu",
+        "items":[
+            "juice",
+            "zest"
+        ]
+    },
+    {
+        "name":"zucchini",
+        "items":[
+            "grilled"
+        ]
+    },
+    {
+        "name":"\u201ccheese,\u201d nut",
+        "items":[
+            "pinenut",
+            "pumpkin seed\u2013macadamia \u201cparmesan\u201d"
+        ]
+    },
+    {
+        "name":"\u201csausage,\u201d vegan",
+        "items":[
+            "field roast italian"
+        ]
+    }
+]

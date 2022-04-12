@@ -1,0 +1,59 @@
+///*----------------------------------*\
+//  #COLORS
+//\*----------------------------------*/
+
+// Set up a colour palette which allows us to theme the entire project from one
+// location.
+
+// Colour palette.
+$color-primary:               #13232B !default;
+$color-primary-highlight:     lighten($color-primary, 5%) !default;
+$color-primary-shadow:        darken($color-primary,  5%) !default;
+
+$color-secondary:             #E5F9FF !default;
+$color-secondary-highlight:   lighten($color-secondary, 5%) !default;
+$color-secondary-shadow:      darken($color-secondary,  5%) !default;
+
+$color-ui:                          #e4e4e4 !default;
+
+$color-grey:                        #666 !default;
+$color-grey-dark:                   #333 !default;
+$color-grey-light:                  #999 !default;
+$color-white:                       #fff !default;
+
+
+
+
+
+// Theme colors.
+$color-theme-red:                   #C51719;
+$color-theme-green:                 #163831;
+$color-theme-blue:                  #99E6FF;
+
+
+
+
+
+// Reassign literal variables to meaningful ones.
+$color-page-text-primary:           $color-grey;
+$color-page-text-secondary:         $color-primary;
+$color-page-background:               #FAFEFF;
+
+$color-logo:                            $color-secondary;
+
+$color-links:                           inherit;
+$color-links-prose:                     $color-primary;
+$color-links-prose-hover:               $color-primary-shadow;
+
+$color-page-header:                       $color-secondary;
+$color-page-header-background:            $color-primary;
+
+$color-page-footer:                       $color-secondary;
+$color-page-footer-background:            $color-primary;
+
+$color-btn:                             #fff;
+$color-btn-background:                  $color-primary;
+$color-btn-background-hover:            $color-primary-shadow;
+$color-btn-secondary:                   #fff;
+$color-btn-secondary-background:        $color-secondary;
+$color-btn-secondary-background-hover:  $color-secondary-shadow;

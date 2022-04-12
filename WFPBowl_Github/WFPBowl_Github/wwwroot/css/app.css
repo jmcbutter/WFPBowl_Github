@@ -441,8 +441,8 @@ h6 {
 }
 
 :root, html {
-  font-size: calc(1em + 0.5vh);
-  line-height: 1.5;
+  font-size: calc(1em + 0.35vh);
+  line-height: 1.15;
   font-family: utopia-std, serif;
   background-color: #FAFEFF;
   color: #666;

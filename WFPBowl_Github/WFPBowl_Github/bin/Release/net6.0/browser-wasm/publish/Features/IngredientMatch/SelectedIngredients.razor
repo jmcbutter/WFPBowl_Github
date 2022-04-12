@@ -1,0 +1,37 @@
+﻿<details open>
+    <summary class="divider padded">
+        <div class="box"></div>
+        <div class="count-container">
+            @if(Selected == null)
+            {
+                <p class="count">0</p>
+            } 
+            else
+            {
+                <p class="count">@Selected.Count()</p>
+            }
+        </div>
+    </summary>
+      
+    @if(Selected !=null && Selected.Any())
+    {
+        <div class="list">
+            @foreach(var ingredient in Selected)
+            {
+                <RatedIngredient Ingredient="ingredient" OnSelected="RemoveIngredient"/>
+            }
+        </div>
+        <div class="padded">
+            <hr>
+        </div>
+    }
+</details>
+
+
+@code {
+    [Parameter, EditorRequired]
+    public List<Ingredient>? Selected { get; set; }
+
+    [Parameter, EditorRequired]
+    public EventCallback<Ingredient> RemoveIngredient { get; set; }
+}

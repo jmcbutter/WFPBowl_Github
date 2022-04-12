@@ -1,0 +1,67 @@
+﻿@page "/"
+@using System.Collections.ObjectModel
+@inject HttpClient Http
+
+@if (_filter == null || _filter.VisibleIngredients == null)
+{
+    <p>Loading Ingredients...</p>
+}
+else
+{
+    <div class="o-container o-container--sticky o-container--below-header u-pad-over">
+        <SearchBar Ingredients="_filter.VisibleIngredients" Search="SearchIngredient" />
+
+        <FilterBlock Filter="ChangeCategory"/>
+        <div class="u-pad-over">
+            <SelectedIngredients Selected="_filter.Selected" RemoveIngredient="RemoveIngredientFromSelection"/>
+        </div>
+    </div>
+    <div>
+        @foreach (Ingredient ingredient in _filter.VisibleIngredients)
+        {
+            <RatedIngredient Ingredient="ingredient" OnSelected="AddIngredientToSelection"/>
+        }
+    </div>    
+}
+
+
+@code {
+    private IngredientFilter _filter;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            List<Ingredient> ingredients = await Http.GetFromJsonAsync<List<Ingredient>>("ingredients/ingredient-data.json") ?? new List<Ingredient>();
+            _filter = new IngredientFilter(ingredients) ?? throw new Exception();
+        }
+        catch (HttpRequestException ex)
+        {
+            Console.WriteLine($"There was a problem loading ingredient data: {ex.Message}");
+        }
+    }
+
+    private void AddIngredientToSelection(Ingredient ingredient)
+    {
+        ingredient.IsSelected = !ingredient.IsSelected;
+        _filter.AddIngredientToSelection(ingredient);
+        StateHasChanged();
+    }
+
+    private void RemoveIngredientFromSelection(Ingredient ingredient)
+    {
+        ingredient.IsSelected = !ingredient.IsSelected;
+        _filter.RemoveIngredientFromSelection(ingredient);
+        StateHasChanged();
+    }
+
+    private void ChangeCategory(string category)
+    {
+        _filter.Category = category;
+    }
+
+    private void SearchIngredient(string search)
+    {
+        _filter.SearchText = search;
+    }
+}

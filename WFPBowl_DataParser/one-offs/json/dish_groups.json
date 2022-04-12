@@ -1,0 +1,1703 @@
+[
+    {
+        "name":"aged foods",
+        "items":[
+            "cheese"
+        ]
+    },
+    {
+        "name":"baked goods",
+        "items":[
+            "bagels",
+            "banana)",
+            "biscotti",
+            "biscuits",
+            "bread puddings",
+            "breads",
+            "breads (esp. rye)",
+            "breadsticks",
+            "brownies",
+            "cakes",
+            "cakes (e.g.",
+            "carrot)",
+            "cobblers",
+            "coffee cakes",
+            "cookies",
+            "cookies (e.g.",
+            "corn",
+            "corn bread",
+            "corn breads",
+            "corn muffins",
+            "crackers",
+            "crisps",
+            "crumbles",
+            "esp. as icing",
+            "flatbreads",
+            "focaccia",
+            "fruitcakes",
+            "gingerbread",
+            "gingersnaps",
+            "macaroons",
+            "muffins",
+            "oatmeal)",
+            "pastries",
+            "pie crusts",
+            "piecrusts",
+            "pies",
+            "quick",
+            "quick breads",
+            "quick breads (e.g.",
+            "quickbreads",
+            "rolls",
+            "savory pastries",
+            "scones",
+            "shortbread",
+            "shortcakes",
+            "spice cakes",
+            "strudels",
+            "tarts",
+            "turnovers"
+        ]
+    },
+    {
+        "name":"baked goods",
+        "items":[
+            "breads",
+            "cakes",
+            "cakes (esp. pineapple upside-down)",
+            "cookies",
+            "crackers",
+            "focaccia",
+            "gingerbread",
+            "muffins",
+            "pastries",
+            "pie crusts",
+            "piecrusts",
+            "pies",
+            "pizza crusts",
+            "quick breads",
+            "scones",
+            "tarts"
+        ]
+    },
+    {
+        "name":"baked goods, esp. italian",
+        "items":[
+            "baklava",
+            "cakes",
+            "cookies",
+            "muffins",
+            "piecrusts",
+            "quick breads"
+        ]
+    },
+    {
+        "name":"baked goods, multigrain",
+        "items":[
+            "breads",
+            "muffins"
+        ]
+    },
+    {
+        "name":"batters",
+        "items":[
+            "pancake",
+            "waffle"
+        ]
+    },
+    {
+        "name":"beans",
+        "items":[
+            "baked"
+        ]
+    },
+    {
+        "name":"beverages",
+        "items":[
+            "ales",
+            "beers",
+            "chai",
+            "chocolate",
+            "cocktails",
+            "cocoa",
+            "coffee",
+            "eggnog",
+            "eggnogs",
+            "fruit punch",
+            "fruity",
+            "horchata",
+            "hot chocolate",
+            "hot cocoa",
+            "iced teas",
+            "juices",
+            "juleps",
+            "lassis",
+            "lattes",
+            "lemonade",
+            "lemonades",
+            "lemonades/limeades",
+            "limeade",
+            "margaritas",
+            "mimosas",
+            "mojitos",
+            "punch",
+            "sangrias",
+            "smoothies",
+            "sparkling water",
+            "tea",
+            "teas"
+        ]
+    },
+    {
+        "name":"beverages",
+        "items":[
+            "lattes"
+        ]
+    },
+    {
+        "name":"bread crumbs",
+        "items":[
+            "whole-grain"
+        ]
+    },
+    {
+        "name":"bread stuffings",
+        "items":[
+            "whole-grain"
+        ]
+    },
+    {
+        "name":"breadings",
+        "items":[
+            "croutons",
+            "for mushrooms or tofu",
+            "for seitan",
+            "pita",
+            "rye",
+            "whole-grain",
+            "whole-wheat"
+        ]
+    },
+    {
+        "name":"breads",
+        "items":[
+            "focaccia",
+            "irish soda",
+            "naan",
+            "pita",
+            "pumpernickel",
+            "rye",
+            "whole-grain flatbreads"
+        ]
+    },
+    {
+        "name":"breads, whole-grain",
+        "items":[
+            "whole-wheat"
+        ]
+    },
+    {
+        "name":"breakfast / brunch",
+        "items":[
+            "coffee cake",
+            "french toast",
+            "pancakes"
+        ]
+    },
+    {
+        "name":"breakfast dishes",
+        "items":[
+            "french toast",
+            "pancakes",
+            "waffles"
+        ]
+    },
+    {
+        "name":"candy",
+        "items":[
+            "chocolate truffles"
+        ]
+    },
+    {
+        "name":"casseroles",
+        "items":[
+            "rice"
+        ]
+    },
+    {
+        "name":"cereals",
+        "items":[
+            "breakfast",
+            "hot breakfast",
+            "muesli"
+        ]
+    },
+    {
+        "name":"cereals, breakfast",
+        "items":[
+            "granola",
+            "hot",
+            "muesli",
+            "oatmeal",
+            "ranola"
+        ]
+    },
+    {
+        "name":"cereals, hot breakfast",
+        "items":[
+            "oatmeal",
+            "with fruit"
+        ]
+    },
+    {
+        "name":"chips",
+        "items":[
+            "deep-fried",
+            "dehydrated (not fried)",
+            "fried"
+        ]
+    },
+    {
+        "name":"chocolate",
+        "items":[
+            "dark"
+        ]
+    },
+    {
+        "name":"chowders",
+        "items":[
+            "cold",
+            "corn",
+            "cream-based",
+            "cucumber",
+            "mushroom",
+            "oyster mushroom",
+            "potato",
+            "spinach",
+            "vegetable",
+            "vichyssoise",
+            "yogurt"
+        ]
+    },
+    {
+        "name":"cocktails",
+        "items":[
+            "bloody marys",
+            "e.g.",
+            "gin-based",
+            "martinis",
+            "pimm\u2019s cup",
+            "tequila-based",
+            "vodka-based"
+        ]
+    },
+    {
+        "name":"coffee drinks",
+        "items":[
+            "cappuccinos",
+            "lattes"
+        ]
+    },
+    {
+        "name":"compotes, fruit",
+        "items":[
+            "apple",
+            "fruit"
+        ]
+    },
+    {
+        "name":"confections",
+        "items":[
+            "fudge",
+            "truffles"
+        ]
+    },
+    {
+        "name":"crepes",
+        "items":[
+            "buckwheat"
+        ]
+    },
+    {
+        "name":"crusts",
+        "items":[
+            "breads",
+            "pizzas"
+        ]
+    },
+    {
+        "name":"curries",
+        "items":[
+            "asian",
+            "caribbean",
+            "curry powder",
+            "curry spices",
+            "green",
+            "indian",
+            "indian red",
+            "red",
+            "southeast asian",
+            "thai",
+            "thai (esp. red",
+            "vegetable",
+            "yellow)"
+        ]
+    },
+    {
+        "name":"curry powder",
+        "items":[
+            "indian",
+            "jamaican;"
+        ]
+    },
+    {
+        "name":"deep-fried dishes",
+        "items":[
+            "tofu",
+            "vegetables"
+        ]
+    },
+    {
+        "name":"desserts",
+        "items":[
+            "apple or pear: crisps",
+            "cakes",
+            "cheesecake",
+            "cheesecakes",
+            "chocolate mousses",
+            "clafoutis",
+            "cobblers",
+            "confections",
+            "cookies",
+            "creamy",
+            "creamy (e.g.",
+            "crepes",
+            "crisps",
+            "crumbles",
+            "custards",
+            "custards)",
+            "filled",
+            "flan",
+            "flans",
+            "fools",
+            "frozen",
+            "fruit",
+            "fruit cobblers",
+            "fruit cobblers or crisps",
+            "fruit crisps",
+            "fruit tarts",
+            "galettes",
+            "ice cream",
+            "ice creams",
+            "indian",
+            "kanten",
+            "melba",
+            "mousses",
+            "panna cottas",
+            "pastries",
+            "pies",
+            "pudding",
+            "puddings",
+            "puddings (e.g.",
+            "raw",
+            "rice)",
+            "semifreddos",
+            "shortcakes",
+            "sorbet",
+            "sorbets",
+            "souffl\u00e9s",
+            "strawberry shortcake",
+            "tarts",
+            "tarts (when fully ripe)",
+            "trifles",
+            "\u201cred velvet\u201d"
+        ]
+    },
+    {
+        "name":"desserts, esp. japanese",
+        "items":[
+            "cobblers",
+            "crisps",
+            "crumbles",
+            "pies",
+            "tarts",
+            "y\u014dkan"
+        ]
+    },
+    {
+        "name":"desserts, frozen",
+        "items":[
+            "granitas",
+            "sorbets"
+        ]
+    },
+    {
+        "name":"dips",
+        "items":[
+            "baba ghanoush",
+            "bean",
+            "cheese",
+            "chickpea",
+            "for bread",
+            "hot broths",
+            "hummus",
+            "spinach"
+        ]
+    },
+    {
+        "name":"dips",
+        "items":[
+            "bean"
+        ]
+    },
+    {
+        "name":"drinks",
+        "items":[
+            "agua fresca",
+            "bloody marys",
+            "chai",
+            "cocktails",
+            "coffee-based",
+            "eggnog",
+            "fruit",
+            "hot chocolate",
+            "iced",
+            "juices",
+            "lemonade",
+            "limeade",
+            "liqueurs",
+            "margaritas",
+            "pi\u00f1a coladas",
+            "punches",
+            "smoothies",
+            "sparkling water",
+            "sparkling waters",
+            "sparkling wine",
+            "sparkling wine cocktails",
+            "\u201clemonade\u201d"
+        ]
+    },
+    {
+        "name":"drinks, esp. cream- or milk-based",
+        "items":[
+            "eggnogs"
+        ]
+    },
+    {
+        "name":"dumplings",
+        "items":[
+            "asian",
+            "bread"
+        ]
+    },
+    {
+        "name":"egg dishes",
+        "items":[
+            "huevos rancheros",
+            "quiches"
+        ]
+    },
+    {
+        "name":"frijoles",
+        "items":[
+            "refritos"
+        ]
+    },
+    {
+        "name":"grains, other milder",
+        "items":[
+            "buckwheat",
+            "bulgur",
+            "millet",
+            "quinoa",
+            "rice",
+            "wild rice"
+        ]
+    },
+    {
+        "name":"gratins",
+        "items":[
+            "potato"
+        ]
+    },
+    {
+        "name":"gravies",
+        "items":[
+            "mushroom",
+            "white"
+        ]
+    },
+    {
+        "name":"grilled dishes",
+        "items":[
+            "vegetables"
+        ]
+    },
+    {
+        "name":"gumbo",
+        "items":[
+            "vegetarian"
+        ]
+    },
+    {
+        "name":"gyros, vegetarian",
+        "items":[
+            "eggplant + pita bread + tzatziki sauce"
+        ]
+    },
+    {
+        "name":"hash",
+        "items":[
+            "red flannel",
+            "served with eggs"
+        ]
+    },
+    {
+        "name":"ice cream",
+        "items":[
+            "butter pecan",
+            "rum"
+        ]
+    },
+    {
+        "name":"icings",
+        "items":[
+            "cupcakes",
+            "etc.",
+            "for cakes"
+        ]
+    },
+    {
+        "name":"icy desserts",
+        "items":[
+            "esp. fruit-flavored",
+            "granitas",
+            "sorbets"
+        ]
+    },
+    {
+        "name":"jamaican cuisine",
+        "items":[
+            "jerk dishes"
+        ]
+    },
+    {
+        "name":"jerk dishes",
+        "items":[
+            "tempeh",
+            "tofu",
+            "vegetables"
+        ]
+    },
+    {
+        "name":"juices",
+        "items":[
+            "beets + carrots + celery",
+            "carrot"
+        ]
+    },
+    {
+        "name":"lassis",
+        "items":[
+            "mango"
+        ]
+    },
+    {
+        "name":"lettuce wraps",
+        "items":[
+            "around firm tofu",
+            "around vegetables",
+            "etc.",
+            "firm tofu",
+            "in rice paper",
+            "vegetables"
+        ]
+    },
+    {
+        "name":"loaves",
+        "items":[
+            "mock meatloaf",
+            "mock \u201cmeatloaf\u201d"
+        ]
+    },
+    {
+        "name":"noodle dishes, asian",
+        "items":[
+            "macaroni",
+            "pad thai"
+        ]
+    },
+    {
+        "name":"noodles",
+        "items":[
+            "asian",
+            "soba"
+        ]
+    },
+    {
+        "name":"noodles, asian",
+        "items":[
+            "rice"
+        ]
+    },
+    {
+        "name":"paella",
+        "items":[
+            "mushroom",
+            "vegetarian"
+        ]
+    },
+    {
+        "name":"pancakes",
+        "items":[
+            "buckwheat",
+            "sweet potato"
+        ]
+    },
+    {
+        "name":"pasta",
+        "items":[
+            "fettuccine",
+            "gnocchi",
+            "lasagna",
+            "linguini",
+            "orecchiette",
+            "orzo",
+            "penne",
+            "ravioli",
+            "rigatoni",
+            "spaghetti"
+        ]
+    },
+    {
+        "name":"pasta",
+        "items":[
+            "macaroni"
+        ]
+    },
+    {
+        "name":"pasta, whole-grain",
+        "items":[
+            "farfalle"
+        ]
+    },
+    {
+        "name":"pastas",
+        "items":[
+            "bowtie",
+            "cannelloni",
+            "carbonara",
+            "farfalle",
+            "fettuccine",
+            "fusilli",
+            "gnocchi",
+            "gnudi",
+            "lasagna",
+            "linguini",
+            "mac-n-cheese",
+            "macaroni",
+            "manicotti",
+            "orecchiette",
+            "orzo",
+            "pappardelle",
+            "pasta e fagioli",
+            "penne",
+            "primavera",
+            "ravioli",
+            "rigatoni",
+            "shells",
+            "spaghetti",
+            "tagliatelle",
+            "tortellini",
+            "whole-grain",
+            "ziti"
+        ]
+    },
+    {
+        "name":"pastas",
+        "items":[
+            "gnocchi",
+            "lasagna",
+            "linguini",
+            "orzo",
+            "ravioli",
+            "spaghetti"
+        ]
+    },
+    {
+        "name":"pastas",
+        "items":[
+            "gnocchi",
+            "manicotti",
+            "ravioli"
+        ]
+    },
+    {
+        "name":"pat\u00e9s",
+        "items":[
+            "nut"
+        ]
+    },
+    {
+        "name":"pickled vegetables",
+        "items":[
+            "broccoli",
+            "cauliflower",
+            "cucumber",
+            "green beans",
+            "saut\u00e9ed"
+        ]
+    },
+    {
+        "name":"pie fillings",
+        "items":[
+            "fruit"
+        ]
+    },
+    {
+        "name":"pies",
+        "items":[
+            "apple",
+            "fruit",
+            "maple",
+            "pecan",
+            "pumpkin",
+            "sweet potato"
+        ]
+    },
+    {
+        "name":"pizzas",
+        "items":[
+            "mushroom"
+        ]
+    },
+    {
+        "name":"porridges",
+        "items":[
+            "savory or sweet"
+        ]
+    },
+    {
+        "name":"potatoes",
+        "items":[
+            "baked",
+            "mashed"
+        ]
+    },
+    {
+        "name":"puddings",
+        "items":[
+            "avocado",
+            "banana",
+            "bread",
+            "chia seed",
+            "chocolate",
+            "coconut",
+            "pumpkin",
+            "rice",
+            "summer",
+            "tapioca"
+        ]
+    },
+    {
+        "name":"purees",
+        "items":[
+            "carrot",
+            "carrots",
+            "parsnip",
+            "potato",
+            "potatoes",
+            "root vegetable",
+            "sweet potatoes",
+            "turnip"
+        ]
+    },
+    {
+        "name":"purees",
+        "items":[
+            "carrot",
+            "parsnip",
+            "potato",
+            "pumpkin"
+        ]
+    },
+    {
+        "name":"p\u00e2t\u00e9s",
+        "items":[
+            "chestnut-lentil",
+            "mushroom",
+            "vegetable",
+            "walnut-mushroom",
+            "\u201cfish\u201d"
+        ]
+    },
+    {
+        "name":"p\u00e2t\u00e9s, vegetarian",
+        "items":[
+            "lentil",
+            "nut"
+        ]
+    },
+    {
+        "name":"quesadillas",
+        "items":[
+            "cheese"
+        ]
+    },
+    {
+        "name":"relishes",
+        "items":[
+            "cranberry"
+        ]
+    },
+    {
+        "name":"ricotta",
+        "items":[
+            "baked"
+        ]
+    },
+    {
+        "name":"risottos",
+        "items":[
+            "beet"
+        ]
+    },
+    {
+        "name":"r\u00e9moulades",
+        "items":[
+            "celery root"
+        ]
+    },
+    {
+        "name":"salad dressings",
+        "items":[
+            "asian",
+            "blue cheese",
+            "caesar",
+            "citrus",
+            "citrus vinaigrettes",
+            "clear",
+            "creamy",
+            "fruit",
+            "green",
+            "green goddess",
+            "hot",
+            "lemon vinaigrettes",
+            "lemon \u201cvinaigrette\u201d",
+            "miso",
+            "mustard vinaigrette",
+            "peanut",
+            "ranch",
+            "russian",
+            "sherry vinaigrette",
+            "tahini",
+            "thai",
+            "thousand island",
+            "vinaigrette",
+            "vinaigrettes",
+            "yogurt-based"
+        ]
+    },
+    {
+        "name":"salad dressings, creamy",
+        "items":[
+            "ranch",
+            "vinaigrettes"
+        ]
+    },
+    {
+        "name":"salad dressings, esp. creamy",
+        "items":[
+            "for fruit or green salads"
+        ]
+    },
+    {
+        "name":"salads",
+        "items":[
+            "+ carrots + celery + mayonnaise)",
+            "arrot",
+            "arugula",
+            "as a topping",
+            "asian",
+            "asian noodle",
+            "asparagus",
+            "avocado",
+            "barley",
+            "bean",
+            "beet",
+            "bitter green",
+            "bread",
+            "bread (e.g.",
+            "cabbage",
+            "cabbage (cold or warm)",
+            "caesar",
+            "carrot",
+            "cauliflower",
+            "chickpea",
+            "chilled noodle",
+            "chopped",
+            "citrus",
+            "cobb",
+            "corn",
+            "cucumber",
+            "dandelion",
+            "egg",
+            "endive",
+            "endive + arugula + radicchio)",
+            "fattoush",
+            "fennel",
+            "fris\u00e9e",
+            "fruit",
+            "fruit,\u201cquieter\u201d",
+            "grain",
+            "grated",
+            "greek",
+            "green",
+            "green bean",
+            "herb",
+            "hoppin\u2019 john",
+            "legume",
+            "lentil",
+            "macaroni",
+            "mediterranean",
+            "mesclun",
+            "mixed green",
+            "mock egg",
+            "mock seafood",
+            "mock tuna",
+            "mushroom",
+            "ni\u00e7oise",
+            "noodle",
+            "panzanella",
+            "panzanella)",
+            "parsley",
+            "parsnip",
+            "pasta",
+            "potato",
+            "potato (cold or hot)",
+            "radicchio",
+            "raw zucchini",
+            "rice",
+            "rice noodle",
+            "sea vegetable",
+            "spinach",
+            "tabbouleh",
+            "taco",
+            "thai",
+            "three-bean",
+            "tofu",
+            "tomato",
+            "tricolore",
+            "tricolore (radicchio + arugula + endive)",
+            "tricolore salad",
+            "tricolore salad (i.e.",
+            "ucumber",
+            "vegetable",
+            "waldorf",
+            "warm",
+            "watercress",
+            "wild rice",
+            "winter",
+            "zucchini",
+            "\u201cchicken\u201d (e.g.",
+            "\u201cegg,\u201d green",
+            "\u201cegg,\u201d potato"
+        ]
+    },
+    {
+        "name":"salads",
+        "items":[
+            "asian",
+            "bean",
+            "citrus",
+            "cucumber",
+            "egg",
+            "fennel",
+            "fruit",
+            "grain",
+            "green",
+            "noodle",
+            "onion",
+            "pasta",
+            "potato",
+            "radish",
+            "spinach",
+            "thai",
+            "three-bean",
+            "tomato",
+            "vegetable"
+        ]
+    },
+    {
+        "name":"salads",
+        "items":[
+            "grain",
+            "ni\u00e7oise",
+            "noodle",
+            "pasta"
+        ]
+    },
+    {
+        "name":"salads (esp. young leaves)",
+        "items":[
+            "asian",
+            "green",
+            "noodle"
+        ]
+    },
+    {
+        "name":"salsas",
+        "items":[
+            "cooked",
+            "esp. salsa verde",
+            "fruit",
+            "green",
+            "mexican",
+            "pico de gallo",
+            "pineapple",
+            "plum",
+            "salsa verde",
+            "tomato",
+            "verde"
+        ]
+    },
+    {
+        "name":"sandwiches",
+        "items":[
+            "avocadolt",
+            "baos",
+            "b\u00e1nh m\u00ec",
+            "cheese",
+            "club (with crisp tempeh \u201cbacon\u201d)",
+            "egg salad",
+            "grilled cheese",
+            "grilled mozzarella",
+            "italian",
+            "panini",
+            "philly \u201ccheesesteak,\u201d",
+            "tea",
+            "veggie burgers",
+            "wraps",
+            "\u201cblts\u201d",
+            "\u201cblt\u201d",
+            "\u201cfrench dip,\u201d panini",
+            "\u201cpulled pork,\u201d \u201creuben\u201d",
+            "\u201creuben,\u201d tblt",
+            "\u201creuben,\u201d \u201csausage\u201d",
+            "\u201csloppy joes\u201d"
+        ]
+    },
+    {
+        "name":"sandwiches",
+        "items":[
+            "peanut butter",
+            "wraps"
+        ]
+    },
+    {
+        "name":"sauces",
+        "items":[
+            "adobo",
+            "alfredo",
+            "barbecue",
+            "bearnaise",
+            "black pepper",
+            "butter",
+            "b\u00e9chamel",
+            "caramel",
+            "cheese",
+            "chimichurri",
+            "chocolate",
+            "cold",
+            "cranberry",
+            "cream",
+            "cream-based",
+            "creamy",
+            "cr\u00e8me anglaise",
+            "custard",
+            "dessert",
+            "dipping",
+            "enchilada",
+            "french",
+            "fruit",
+            "gravies",
+            "green",
+            "herb",
+            "hollandaise",
+            "hot",
+            "jerk",
+            "kung pao",
+            "marinara",
+            "marjoram",
+            "mayonnaises",
+            "mignonettes",
+            "mole",
+            "moles",
+            "mushroom",
+            "mustard",
+            "nut",
+            "onion",
+            "parsley",
+            "pasta",
+            "peanut",
+            "piccata",
+            "pizza",
+            "plum",
+            "ponzu",
+            "pumpkin seed",
+            "puttanesca",
+            "puttanesca (vegetarian)",
+            "raita",
+            "ranchero",
+            "red wine",
+            "romesco",
+            "salsas",
+            "skordalia",
+            "sorrel",
+            "sweet-and-sour",
+            "tahini",
+            "tartar",
+            "teriyaki",
+            "thai barbecue",
+            "tomato",
+            "tomato sauces",
+            "tzatziki",
+            "vegan xo",
+            "vegetable",
+            "walnut",
+            "white",
+            "yogurt",
+            "\u201cbolognese\u201d",
+            "\u201ccheese-y\u201d",
+            "\u201ccheese\u201d",
+            "\u201cchimichurri\u201d"
+        ]
+    },
+    {
+        "name":"sauces",
+        "items":[
+            "dipping",
+            "moles",
+            "peanut",
+            "red tomato-based",
+            "white"
+        ]
+    },
+    {
+        "name":"sauces, esp. classic french",
+        "items":[
+            "b\u00e9arnaise",
+            "hollandaise; creamy",
+            "tartar"
+        ]
+    },
+    {
+        "name":"sauces, fruit",
+        "items":[
+            "raspberry"
+        ]
+    },
+    {
+        "name":"sesame",
+        "items":[
+            "seeds"
+        ]
+    },
+    {
+        "name":"slaws",
+        "items":[
+            "asian",
+            "cole"
+        ]
+    },
+    {
+        "name":"smoky-flavored foods",
+        "items":[
+            "smoked paprika or tofu"
+        ]
+    },
+    {
+        "name":"smoothies",
+        "items":[
+            "berry",
+            "fruit",
+            "pineapple"
+        ]
+    },
+    {
+        "name":"soups",
+        "items":[
+            "artichoke",
+            "arugula",
+            "asian",
+            "asian or fruit",
+            "asparagus",
+            "avgolemono",
+            "avocado",
+            "barley",
+            "bean",
+            "beet",
+            "bisque",
+            "black bean",
+            "black-eyed pea",
+            "borscht",
+            "broccoli",
+            "broths",
+            "buttermilk",
+            "butternut squash",
+            "cabbage",
+            "carrot",
+            "cauliflower",
+            "celery",
+            "celery root",
+            "chard",
+            "chestnut",
+            "chickpea",
+            "chinese",
+            "chowder",
+            "chowders",
+            "clear",
+            "clear (used as a thickener or as a garnish when popped)",
+            "coconut",
+            "coconut milk\u2013based",
+            "cold",
+            "cold and/or fruit",
+            "cold or hot",
+            "corn",
+            "cream",
+            "cream-based",
+            "creamy",
+            "cucumber",
+            "curry",
+            "ean",
+            "escarole",
+            "fennel",
+            "fruit",
+            "garlic",
+            "gazpacho",
+            "grain",
+            "green gazpacho",
+            "gumbo",
+            "gumbos",
+            "harira",
+            "hearty",
+            "hot",
+            "hot-and-sour",
+            "irish",
+            "jerusalem artichoke",
+            "kale",
+            "leek",
+            "legume",
+            "lentil",
+            "lettuce",
+            "light-colored",
+            "melon",
+            "minestrone",
+            "miso",
+            "mulligatawny",
+            "mung bean",
+            "mushroom",
+            "mushroom barley",
+            "noodle",
+            "onion",
+            "or as a thickener",
+            "pasta",
+            "pasta e fagioli",
+            "pea",
+            "peanut",
+            "potato",
+            "pumpkin",
+            "pureed",
+            "red lentil",
+            "red pepper",
+            "rhubarb",
+            "root vegetable",
+            "rutabaga",
+            "salsify",
+            "scotch broth",
+            "scottish",
+            "sorrel",
+            "spicy/sour",
+            "spinach",
+            "split pea",
+            "sprouted lentil",
+            "squash",
+            "strawberry",
+            "summer",
+            "sweet potato",
+            "sweet-and-sour",
+            "thai",
+            "to make creamier",
+            "tomato",
+            "tomato-based",
+            "tortilla",
+            "turnip",
+            "vegetable",
+            "vegetarian pho",
+            "vichyssoise",
+            "white",
+            "white asparagus",
+            "white bean",
+            "white gazpacho",
+            "winter",
+            "winter melon",
+            "winter vegetable",
+            "yam",
+            "yogurt",
+            "zucchini",
+            "\u201ccreamy,\u201d miso",
+            "\u201ccreamy\u201d",
+            "\u201cgazpacho\u201d"
+        ]
+    },
+    {
+        "name":"soups",
+        "items":[
+            "bean",
+            "black bean",
+            "bonne femme",
+            "borscht",
+            "broccoli rabe",
+            "butternut squash",
+            "cabbage",
+            "carrot",
+            "cauliflower",
+            "coconut milk\u2013based",
+            "cold",
+            "collard green",
+            "corn",
+            "creamy",
+            "curry",
+            "dark or mixed miso",
+            "dumpling",
+            "fruit",
+            "gazpacho",
+            "lentil",
+            "minestrone",
+            "miso",
+            "mushroom",
+            "noodle",
+            "pasta e fagioli",
+            "pea",
+            "potato",
+            "rice-based",
+            "richer",
+            "split pea",
+            "squash",
+            "tomato",
+            "tortilla",
+            "vegetable",
+            "vegetable (esp. winter)",
+            "winter",
+            "zucchini",
+            "\u201cgazpacho,\u201d watermelon"
+        ]
+    },
+    {
+        "name":"soups",
+        "items":[
+            "cabbage",
+            "minestrone",
+            "miso",
+            "rice"
+        ]
+    },
+    {
+        "name":"soups, chilled",
+        "items":[
+            "fruit",
+            "gazpacho"
+        ]
+    },
+    {
+        "name":"soups/bisques",
+        "items":[
+            "cream",
+            "lentil",
+            "parsnip",
+            "potato",
+            "pumpkin",
+            "sweet potato",
+            "winter vegetable"
+        ]
+    },
+    {
+        "name":"spreads",
+        "items":[
+            "chickpea",
+            "pureed tofu",
+            "vegan \u201ccheese\u201d"
+        ]
+    },
+    {
+        "name":"spring rolls",
+        "items":[
+            "vietnamese"
+        ]
+    },
+    {
+        "name":"stews",
+        "items":[
+            "asian",
+            "barley",
+            "bean",
+            "callaloo",
+            "indian",
+            "lentil",
+            "moroccan",
+            "moroccan tagines",
+            "mushroom",
+            "peanut",
+            "root vegetable",
+            "tagines",
+            "vegetable",
+            "vegetable tagines",
+            "white bean",
+            "winter"
+        ]
+    },
+    {
+        "name":"stews, aka tagines, vegetarian",
+        "items":[
+            "carrot",
+            "chickpea",
+            "lentil",
+            "root vegetable"
+        ]
+    },
+    {
+        "name":"stir-fries",
+        "items":[
+            "french",
+            "with root vegetables"
+        ]
+    },
+    {
+        "name":"stock",
+        "items":[
+            "dashi",
+            "mushroom",
+            "vegetable"
+        ]
+    },
+    {
+        "name":"stocks",
+        "items":[
+            "dashi",
+            "mushroom",
+            "mushroom and/or vegetable",
+            "vegetable"
+        ]
+    },
+    {
+        "name":"stocks",
+        "items":[
+            "japanese",
+            "soup"
+        ]
+    },
+    {
+        "name":"stroganoff",
+        "items":[
+            "mushroom"
+        ]
+    },
+    {
+        "name":"strudels",
+        "items":[
+            "phyllo dough"
+        ]
+    },
+    {
+        "name":"stuffed chard",
+        "items":[
+            "with currants + pine nuts + rice"
+        ]
+    },
+    {
+        "name":"stuffed mushrooms or vegetables",
+        "items":[
+            "artichokes or onions",
+            "bell peppers",
+            "eggplants",
+            "tomatoes"
+        ]
+    },
+    {
+        "name":"stuffed onions",
+        "items":[
+            "and/or rice",
+            "herbs",
+            "with cheese"
+        ]
+    },
+    {
+        "name":"stuffed piquillo peppers",
+        "items":[
+            "with goat cheese or white beans"
+        ]
+    },
+    {
+        "name":"stuffed vegetables",
+        "items":[
+            "bell peppers",
+            "cabbage",
+            "eggplant",
+            "mushrooms",
+            "peppers",
+            "squash",
+            "tomatoes",
+            "winter squash",
+            "zucchini"
+        ]
+    },
+    {
+        "name":"stuffed vegetables",
+        "items":[
+            "bell peppers",
+            "cabbage",
+            "eggplant",
+            "grape leaves",
+            "tomatoes"
+        ]
+    },
+    {
+        "name":"stuffed zucchini blossoms",
+        "items":[
+            "fried"
+        ]
+    },
+    {
+        "name":"stuffings",
+        "items":[
+            "cabbage",
+            "corn bread",
+            "for artichokes",
+            "for ravioli",
+            "grain",
+            "grape leaves",
+            "israeli couscous",
+            "mushroom",
+            "mushrooms",
+            "peppers",
+            "pumpkins",
+            "quinoa",
+            "rice",
+            "squash",
+            "vegetables"
+        ]
+    },
+    {
+        "name":"sushi, vegetarian",
+        "items":[
+            "hand rolls",
+            "nori rolls"
+        ]
+    },
+    {
+        "name":"tagines",
+        "items":[
+            "root vegetable"
+        ]
+    },
+    {
+        "name":"tarts",
+        "items":[
+            "apple",
+            "asparagus",
+            "cheese",
+            "fruit",
+            "fruit)",
+            "mushroom",
+            "onion",
+            "pear",
+            "potato",
+            "savory (e.g.",
+            "sweet (e.g.",
+            "vegetable",
+            "zucchini)"
+        ]
+    },
+    {
+        "name":"tea",
+        "items":[
+            "chai"
+        ]
+    },
+    {
+        "name":"teas",
+        "items":[
+            "green",
+            "herbal",
+            "mint",
+            "moroccan"
+        ]
+    },
+    {
+        "name":"tomatoes, stuffed",
+        "items":[
+            "with rice"
+        ]
+    },
+    {
+        "name":"tortillas",
+        "items":[
+            "corn",
+            "whole-grain",
+            "whole-wheat"
+        ]
+    },
+    {
+        "name":"udon nori rolls",
+        "items":[
+            "avocado",
+            "cucumber",
+            "spring",
+            "summer"
+        ]
+    },
+    {
+        "name":"veggie burgers",
+        "items":[
+            "as a topping",
+            "beet-lentil",
+            "with rice"
+        ]
+    },
+    {
+        "name":"vinaigrette",
+        "items":[
+            "shallot"
+        ]
+    },
+    {
+        "name":"waffles",
+        "items":[
+            "add to batter"
+        ]
+    },
+    {
+        "name":"yogurt",
+        "items":[
+            "frozen or semi-frozen",
+            "vegan"
+        ]
+    },
+    {
+        "name":"yogurt, vegan",
+        "items":[
+            "nut-based"
+        ]
+    },
+    {
+        "name":"zucchini, stuffed",
+        "items":[
+            "mushrooms",
+            "pine nuts",
+            "raisins",
+            "rice",
+            "ricotta",
+            "with couscous"
+        ]
+    }
+]
