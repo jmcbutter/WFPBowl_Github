@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/BaLqgf/He0o9NY06Ehqc354NDHxWrT+h4k52j67xWo=",
+  "Hash": "isuxmI+dzxN20TDFcg8AjHVFr6iu2cONKBeDoF6BOHg=",
   "Source": "WFPBowl_Github",
   "BasePath": "/",
   "Mode": "Root",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\bin\\Release\\net6.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\Features\\IngredientMatch\\FilterBlock.razor.js",
+      "SourceId": "WFPBowl_Github",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\",
+      "BasePath": "/",
+      "RelativePath": "Features/IngredientMatch/FilterBlock.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Features\\IngredientMatch\\FilterBlock.razor.js"
     },
     {
       "Identity": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\obj\\Release\\net6.0\\blazor.publish.boot.json",
@@ -2956,6 +2973,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ingredients\\ingredient-data.json"
+    },
+    {
+      "Identity": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\wwwroot\\js\\quickmatch.js",
+      "SourceId": "WFPBowl_Github",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/quickmatch.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\quickmatch.js"
     },
     {
       "Identity": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\wwwroot\\recipes\\recipe-data.json",

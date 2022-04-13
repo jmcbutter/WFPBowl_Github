@@ -1,9 +1,18 @@
-﻿<header class="c-page-head o-container o-container--sticky o-container--top">
+﻿<header class="o-flex c-page-head o-container o-container--sticky o-container--top">
     <h1 class="c-page-head__logo">
         WFPBowl
     </h1>
+    <div class="c-page-head__help"><img src="help-icon.png" @onclick="ClickHelpButton"/></div>
 </header>
 
-@code {
+<HelpModal HelpButtonClicked="_helpButtonClicked"/>
 
+@code {
+    private bool _helpButtonClicked;
+
+    private void ClickHelpButton()
+    {
+        _helpButtonClicked = false;
+        StateHasChanged();
+    }
 }

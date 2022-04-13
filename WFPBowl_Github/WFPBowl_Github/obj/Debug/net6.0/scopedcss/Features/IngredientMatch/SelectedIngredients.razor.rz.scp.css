@@ -90,7 +90,15 @@ details[open] .divider[b-auuhgmmdcp]::after {
   padding: 0.5em 2.5em 0em 2.5em;
 }
 
-details summary[b-auuhgmmdcp]::marker {
+details > summary[b-auuhgmmdcp]::-webkit-details-marker {
   display: none;
   content: "";
+}
+
+details > summary[b-auuhgmmdcp] {
+  list-style: none;
+}
+
+details:focus[b-auuhgmmdcp] {
+  outline: none;
 }

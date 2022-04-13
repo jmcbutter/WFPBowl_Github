@@ -456,6 +456,10 @@ body * + * {
   margin-top: 0em;
 }
 
+body {
+  overflow-y: scroll;
+}
+
 main {
   max-width: 620px;
   margin: 0 auto;
@@ -568,16 +572,30 @@ main {
   -webkit-box-flex: 9;
       -ms-flex: 9;
           flex: 9;
-  justify-items: start;
-  text-align: start;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .o-ingredient-flex__right {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
-  justify-items: center;
-  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .o-recipe-grid {
@@ -701,7 +719,7 @@ main {
 }
 
 .c-ingredient {
-  padding: 0.5em 12%;
+  padding: 0.5em 6em;
 }
 
 .label {
@@ -785,6 +803,7 @@ main {
   -ms-grid-column-align: center;
       justify-self: center;
   margin: 0;
+  outline: none;
 }
 
 .c-recipe {
@@ -869,10 +888,14 @@ main {
 }
 
 .c-text--filter::after {
-  content: " | ";
+  content: " | ";
+  text-decoration: none;
+  display: inline-block;
 }
 .c-text--filter:last-of-type::after {
   content: "";
+  text-decoration: none;
+  display: inline-block;
 }
 
 .c-title-divider {

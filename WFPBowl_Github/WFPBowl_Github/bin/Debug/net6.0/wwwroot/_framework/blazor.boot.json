@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-tSv6NEbBsHuM5P3AUJGybafS0hxrXlzDmmcyG2eGk3I=",
       "netstandard.dll": "sha256-klcvWVyHimPfDxg6W1A076EKpCB5ySxjtc7sxJEsGgE=",
       "System.Private.CoreLib.dll": "sha256-Y8kdbfPQ0YoYLGbOgzRmoVsnuMYNlA1hvLvDWFTtzrk=",
-      "WFPBowl_Github.dll": "sha256-QYDCmLqdUtkXwhwQusQkCm7NfiL3GjYEN0an5y5fGzo="
+      "WFPBowl_Github.dll": "sha256-SGPSUUasVZklDL4grnWGyMDJjP2z2Y1alkepB7rgVvA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "WFPBowl_Github.pdb": "sha256-hYOyLW\/WOCPvV8n0CEykeJOqmsSyiN8m9lHBgX4\/FdU="
+      "WFPBowl_Github.pdb": "sha256-pESM5IZTaxGxD1\/siVHkuvNaR3csMYG0yqtcwQn3LG4="
     },
     "runtime": {
       "dotnet.6.0.3.k4rg04dpep.js": "sha256-pRmcHKZN4T\/YbX9dj6ITT4sNtkJ9w07OLcwl4645nPg=",

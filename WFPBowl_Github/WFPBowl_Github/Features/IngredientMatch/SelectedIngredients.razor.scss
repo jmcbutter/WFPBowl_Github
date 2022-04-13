@@ -8,6 +8,7 @@
     content: "";
     flex: 1;
     border-bottom: 1px solid black;
+    pointer-events: none;
 }
 
 .box {
@@ -70,7 +71,15 @@ details[open] {
     padding: 0.5em 2.5em 0em 2.5em;
 }
 
-details summary::marker {
+details > summary::-webkit-details-marker {
     display: none;
     content: "";
+}
+
+details > summary {
+    list-style: none;
+}
+
+details:focus {
+    outline: none;
 }

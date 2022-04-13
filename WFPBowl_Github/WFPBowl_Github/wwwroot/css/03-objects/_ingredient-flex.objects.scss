@@ -4,12 +4,15 @@
 
 .o-ingredient-flex__left {
     flex: 9;
-    justify-items: start;
-    text-align: start;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-right: 1em;
 }
 
 .o-ingredient-flex__right {
     flex: 1;
-    justify-items: center;
-    text-align: center;
+    display: flex;
+    justify-content: end;
+    align-items: center;
 }

@@ -1,0 +1,36 @@
+﻿<div class="c-modal__backdrop @(_isOpen ? "u-displayed" : "u-undisplayed")">
+    <div class="c-modal__body">
+        <button class="c-button c-button--no-border" style="margin-left: -1.75em" @onclick="Close">X</button>
+        <h3 class="c-text c-text--heading" style="text-align: center">WELCOME TO WFPBOWL</h3>
+        <br />
+        <p>WFPBowl is a quick recipe creation and flavor pairing app specifically geared towards a Whole Food Plant Based diet. To get started, simply select an ingredient in the list.</p>
+        <br />
+        <p>Each ingredient contains an ingredient name, as well as an estimate of how well that ingredient pairs with all of the ingredients in your recipe. A value of 100 indicates that the ingredient pairs well with every item in the recipe, while a value of 0 indicates that it doesn't pair with any of them. A value between 0 and 100 indicates that it pairs well with some but not all, with a lower value indicating fewer and weaker pairs.</p>
+        <br />
+        <p> Your recipe is shown at the top of the page, under the box/diamond with the line separator. Ingredients added to your recipe will be shown here, bolded and in all caps. The number in the diamond indicates how well all of the ingredients in your recipe pair with each other. Again, higher values indicate better parity while lower values indicate weaker parity.</p>
+        <br />
+        <p>With that, you should know everything you need to know to get started. And if not, just start clicking and see what happens.</p>
+    </div>
+</div>
+
+
+
+@code {
+    public bool _isOpen;
+
+    [Parameter, EditorRequired]
+    public bool HelpButtonClicked { get; set; }
+
+    protected override void OnParametersSet()
+    {
+        if(HelpButtonClicked)
+        {
+            _isOpen = true;
+        }
+    }
+
+    private void Close()
+    {
+        _isOpen = false;
+    }
+}
