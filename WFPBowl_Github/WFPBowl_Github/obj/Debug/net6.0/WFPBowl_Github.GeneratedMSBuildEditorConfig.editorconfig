@@ -11,49 +11,53 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = WFPBowl_Github
 build_property.RootNamespace = WFPBowl_Github
-build_property.ProjectDir = C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\
+build_property.ProjectDir = C:\Users\jmcbu\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\JORDAN BUTTERFIELD\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github
+build_property.MSBuildProjectDirectory = C:\Users\jmcbu\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/JORDAN BUTTERFIELD/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/App.razor]
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JORDAN BUTTERFIELD/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/IngredientMatch/FilterBlock.razor]
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/IngredientMatch/FilterBlock.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSW5ncmVkaWVudE1hdGNoXEZpbHRlckJsb2NrLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JORDAN BUTTERFIELD/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/IngredientMatch/QuickMatchPage.razor]
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/IngredientMatch/QuickMatchPage.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSW5ncmVkaWVudE1hdGNoXFF1aWNrTWF0Y2hQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JORDAN BUTTERFIELD/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/IngredientMatch/RatedIngredient.razor]
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/IngredientMatch/RatedIngredient.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSW5ncmVkaWVudE1hdGNoXFJhdGVkSW5ncmVkaWVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JORDAN BUTTERFIELD/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/IngredientMatch/SearchBar.razor]
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/IngredientMatch/SearchBar.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSW5ncmVkaWVudE1hdGNoXFNlYXJjaEJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JORDAN BUTTERFIELD/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/Layout/Header.razor]
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/Layout/Header.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTGF5b3V0XEhlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JORDAN BUTTERFIELD/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/Layout/HelpModal.razor]
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/Layout/HelpModal.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTGF5b3V0XEhlbHBNb2RhbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JORDAN BUTTERFIELD/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/Layout/MainLayout.razor]
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JORDAN BUTTERFIELD/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/_Imports.razor]
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/Load/LoadingScreen.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTG9hZFxMb2FkaW5nU2NyZWVuLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JORDAN BUTTERFIELD/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/IngredientMatch/SelectedIngredients.razor]
+[C:/Users/jmcbu/Desktop/Projects/WFPBowl_Github/WFPBowl_Github/WFPBowl_Github/Features/IngredientMatch/SelectedIngredients.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSW5ncmVkaWVudE1hdGNoXFNlbGVjdGVkSW5ncmVkaWVudHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-auuhgmmdcp

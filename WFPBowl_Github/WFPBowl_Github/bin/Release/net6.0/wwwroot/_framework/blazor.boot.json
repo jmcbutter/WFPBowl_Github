@@ -196,16 +196,16 @@
       "mscorlib.dll": "sha256-tSv6NEbBsHuM5P3AUJGybafS0hxrXlzDmmcyG2eGk3I=",
       "netstandard.dll": "sha256-klcvWVyHimPfDxg6W1A076EKpCB5ySxjtc7sxJEsGgE=",
       "System.Private.CoreLib.dll": "sha256-Y8kdbfPQ0YoYLGbOgzRmoVsnuMYNlA1hvLvDWFTtzrk=",
-      "WFPBowl_Github.dll": "sha256-bMPajt1bublTVk1OD2PAensyOwoBomVnkPp44INUOuU="
+      "WFPBowl_Github.dll": "sha256-CChXRgTWGtMYT5FXTPeTu6obdNAtwtCDAr8q7R9YyCc="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "WFPBowl_Github.pdb": "sha256-DH+zBHN7u\/wLFlVgA+xIrImrp8nIT1ZVdSSXWq0uiOo="
+      "WFPBowl_Github.pdb": "sha256-XAT2aBJi2bOIKGsejkkG6Sm6PsQJ0PSGuvY4UN4vB6o="
     },
     "runtime": {
-      "dotnet.6.0.3.k4rg04dpep.js": "sha256-pRmcHKZN4T\/YbX9dj6ITT4sNtkJ9w07OLcwl4645nPg=",
+      "dotnet.6.0.3.a0h3ey2lsh.js": "sha256-pRmcHKZN4T\/YbX9dj6ITT4sNtkJ9w07OLcwl4645nPg=",
       "dotnet.timezones.blat": "sha256-scXGarUHqfFWPq0d6kt1FgrQvd1\/ndIwUTFptznHbsc=",
       "dotnet.wasm": "sha256-AW7xegLOO5MgfdWQ5okeetFKzb4byQc4c+tkQjAO8+0=",
       "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",

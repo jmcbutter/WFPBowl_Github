@@ -5,7 +5,10 @@
 
 @if (_filter == null || _filter.VisibleIngredients == null)
 {
-    <p>Loading Ingredients...</p>
+    <div style="background-color:#13232B; position:fixed; top:0; bottom: 0; left:0; right:0; text-align:center;">
+        <p style="position:fixed; top:50%; left: 50%; transform:translate(-50%, -50%); color:#E5F9FF">Loading Ingredients...</p>
+        <p class=c-text--small style="position:fixed; top:55%; left: 50%; transform:translate(-50%, -50%); color:#E5F9FF">This may take a second</p>
+    </div>
 }
 else
 {

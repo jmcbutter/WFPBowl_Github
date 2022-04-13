@@ -16,7 +16,7 @@
 .o-flex {
     display: flex;
     justify-content: space-between; /* [1] */
-    align-items: baseline;
+    align-items: center;
     flex-wrap: wrap;
 }
 
@@ -35,5 +35,9 @@
 
 .o-flex--padded {
     justify-content: space-around; /* [4] */
+}
+
+o-flex__1 {
+    flex:1;
 }
 

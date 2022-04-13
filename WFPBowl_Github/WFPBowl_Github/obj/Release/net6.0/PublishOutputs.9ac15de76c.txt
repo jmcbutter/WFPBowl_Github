@@ -1,0 +1,2 @@
+C:\Users\jmcbu\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\obj\Release\net6.0\browser-wasm\PubTmp\Out\prepros.config
+C:\Users\jmcbu\Desktop\Projects\WFPBowl_Github\WFPBowl_Github\WFPBowl_Github\obj\Release\net6.0\browser-wasm\PubTmp\Out\web.config

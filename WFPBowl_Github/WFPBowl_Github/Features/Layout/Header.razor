@@ -1,18 +1,30 @@
-﻿<header class="o-flex c-page-head o-container o-container--sticky o-container--top">
+﻿@inject IJSRuntime JS
+
+<header class="o-flex c-page-head o-container o-container--sticky o-container--top">
     <h1 class="c-page-head__logo">
         WFPBowl
     </h1>
     <div class="c-page-head__help"><img src="help-icon.png" @onclick="ClickHelpButton"/></div>
 </header>
 
-<HelpModal HelpButtonClicked="_helpButtonClicked"/>
+<HelpModal HelpButtonClicked="_helpButtonClicked" OnClose="ClickCloseButton"/>
 
 @code {
     private bool _helpButtonClicked;
 
-    private void ClickHelpButton()
+    private async Task ClickHelpButton()
+    {
+        Console.WriteLine(_helpButtonClicked);
+        _helpButtonClicked = true;
+        await JS.InvokeVoidAsync("document.body.classList.add", "noscroll");
+        StateHasChanged();
+    }
+
+    private async Task ClickCloseButton()
     {
         _helpButtonClicked = false;
+        Console.WriteLine(_helpButtonClicked);
+        await JS.InvokeVoidAsync("document.body.classList.remove", "noscroll");
         StateHasChanged();
     }
 }

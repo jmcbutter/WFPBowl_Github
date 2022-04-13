@@ -3,7 +3,7 @@
 
 .c-page-head {
     display: grid;
-    grid-template-areas: "page-head__menu   page-head__logo   .   ";
+    grid-template-areas: "page-head__menu   page-head__logo   page-head__help";
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 3rem;
 
@@ -24,4 +24,11 @@
       justify-self: center;
       margin: 0;
       outline: none;
+  }
+
+  .c-page-head__help {
+      grid-area: page-head__help;
+      justify-self: end;
+      padding-right: 1em;
+      align-self: center;
   }

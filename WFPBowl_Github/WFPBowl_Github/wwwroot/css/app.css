@@ -531,9 +531,9 @@ main {
       -ms-flex-pack: justify;
           justify-content: space-between;
   /* [1] */
-  -webkit-box-align: baseline;
-      -ms-flex-align: baseline;
-          align-items: baseline;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
 }
@@ -763,7 +763,7 @@ o-flex__1 {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   border-radius: 20px;
-  padding: 0.5em 2em;
+  padding: 0em 1em 0.5em 1em;
   overflow: scroll;
   scrollbar-width: none;
 }
@@ -1011,4 +1011,8 @@ o-flex__1 {
 
 .u-cursor--pointer {
   cursor: pointer;
+}
+
+.noscroll {
+  overflow: hidden;
 }

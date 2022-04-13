@@ -13,22 +13,22 @@
   right: 0;
   left: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.5)
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 100000;
 }
 
 .c-modal__body {
   background-color: white;
   height: 86%;
-  max-width: 500px;
+  width: 95%;
+  max-width: 30em;
   position: fixed;
   left: 50%;
   top: 10%;
   transform: translateX(-50%);
   border-radius: 20px;
-  padding: 0.5em 0;
+  padding: 0em 1em 0.5em 1em;
   overflow: scroll;
-
-  -ms-overflow-style: none;
   scrollbar-width: none;
   &::-webkit-scrollbar {
     display: none;

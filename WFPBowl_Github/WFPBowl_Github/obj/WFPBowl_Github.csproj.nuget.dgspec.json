@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj": {}
+    "C:\\Users\\jmcbu\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj": {
+    "C:\\Users\\jmcbu\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj",
+        "projectUniqueName": "C:\\Users\\jmcbu\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj",
         "projectName": "WFPBowl_Github",
-        "projectPath": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj",
-        "packagesPath": "C:\\Users\\JORDAN BUTTERFIELD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JORDAN BUTTERFIELD\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\obj\\",
+        "projectPath": "C:\\Users\\jmcbu\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github.csproj",
+        "packagesPath": "C:\\Users\\jmcbu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmcbu\\Desktop\\Projects\\WFPBowl_Github\\WFPBowl_Github\\WFPBowl_Github\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JORDAN BUTTERFIELD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmcbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,12 +60,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.3, 6.0.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
