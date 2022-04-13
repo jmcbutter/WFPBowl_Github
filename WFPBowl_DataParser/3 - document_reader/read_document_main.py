@@ -88,8 +88,9 @@ def create_ingredients(paragraphs):
             current_ingredient.alternate_names.append(paragraph.text)
         elif style == "Cuisine":
             current_ingredient.cuisines.append(paragraph.text)
-        elif style == "Category":
-            current_ingredient.category = paragraph.text
+        elif style == "IngredientProperties":
+            if "Category:" in paragraph.text:
+                current_ingredient.category = paragraph.text.strip("Category: ")
         elif style == "Group":
             current_ingredient.groups.append(paragraph.text)
         elif style == "Dish":
@@ -122,7 +123,7 @@ def cross_check(ingredients):
 
 
 if __name__ == '__main__':
-    doc = docx.Document("../2 - ingredient_grouper/UngroupedIngredients.docx")
+    doc = docx.Document("../../../IngredientPairs--Ungrouped.docx")
 
     ingredients = get_ingredients(doc)
     cross_check(ingredients)

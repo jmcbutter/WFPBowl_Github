@@ -17,6 +17,10 @@ body * + * {
     margin-top: 0em;
 }
 
+body {
+    overflow-y: scroll;
+}
+
 main {
     max-width: 620px;
     margin: 0 auto;

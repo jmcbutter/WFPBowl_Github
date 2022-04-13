@@ -54,11 +54,11 @@ namespace WFPBowl_Github.Features.IngredientMatch
         {
             if(_category != "all" && _searchText != "")
             {
-                VisibleIngredients = Ingredients.Where(i => Regex.IsMatch(i.Name, RegexPattern) && i.Category == Category).OrderByDescending(x => x.Rating).ThenBy(x => x.Name).ToList();
+                VisibleIngredients = Ingredients.Where(i => Regex.IsMatch(i.Name, RegexPattern) && i.Category.ToLower() == Category.ToLower()).OrderByDescending(x => x.Rating).ThenBy(x => x.Name).ToList();
             }
             else if(_category != "all")
             {
-                VisibleIngredients = Ingredients.Where(i => i.Category == Category).OrderByDescending(x => x.Rating).ThenBy(x => x.Name).ToList();
+                VisibleIngredients = Ingredients.Where(i => i.Category.ToLower() == Category.ToLower()).OrderByDescending(x => x.Rating).ThenBy(x => x.Name).ToList();
             }
             else if(_searchText != "")
             {
@@ -72,10 +72,21 @@ namespace WFPBowl_Github.Features.IngredientMatch
 
         private void UpdateRatings()
         {
-            if (Selected.Count() != 0)
+            if (Selected.Count() > 0)
             {
                 foreach (Ingredient ingredient in Ingredients) ingredient.GetRating(Selected);
-                foreach (Ingredient ingredient in Selected) ingredient.GetRating(Selected);
+                if(Selected.Count() > 1)
+                {
+                    for (int i = 1; i < Selected.Count; i++)
+                    {
+                        Selected[i].GetRating(Selected.Take(i).ToList());
+                        Selected[0].Rating = 100;
+                    }
+                }
+                else
+                {
+                    Selected[0].Rating = 100;
+                }
             }
             else
             {

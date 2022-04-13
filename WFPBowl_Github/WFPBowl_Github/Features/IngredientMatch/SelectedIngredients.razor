@@ -2,13 +2,13 @@
     <summary class="divider padded">
         <div class="box"></div>
         <div class="count-container">
-            @if(Selected == null)
+            @if(Selected == null || Selected.Count() == 0)
             {
                 <p class="count">0</p>
             } 
             else
             {
-                <p class="count">@Selected.Count()</p>
+                <p class="count">@GetBowlRating()</p>
             }
         </div>
     </summary>
@@ -34,4 +34,14 @@
 
     [Parameter, EditorRequired]
     public EventCallback<Ingredient> RemoveIngredient { get; set; }
+
+    public int GetBowlRating()
+    {
+        int rating = 0;
+        foreach(Ingredient ingredient in Selected)
+        {
+            rating += ingredient.Rating;
+        }
+        return rating / Selected.Count();
+    }
 }

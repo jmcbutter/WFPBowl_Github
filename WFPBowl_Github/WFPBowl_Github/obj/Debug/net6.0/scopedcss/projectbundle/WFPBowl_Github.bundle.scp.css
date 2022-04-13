@@ -88,9 +88,10 @@ details[open] .divider[b-auuhgmmdcp]::after {
   }
 }
 .padded[b-auuhgmmdcp] {
-  padding: 0.5em 2.5em;
+  padding: 0.5em 2.5em 0em 2.5em;
 }
 
-details summary[b-auuhgmmdcp]::-webkit-details-marker {
+details summary[b-auuhgmmdcp]::marker {
   display: none;
+  content: "";
 }

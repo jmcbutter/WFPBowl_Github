@@ -456,6 +456,10 @@ body * + * {
   margin-top: 0em;
 }
 
+body {
+  overflow-y: scroll;
+}
+
 main {
   max-width: 620px;
   margin: 0 auto;
@@ -869,10 +873,14 @@ main {
 }
 
 .c-text--filter::after {
-  content: " | ";
+  content: " | ";
+  text-decoration: none;
+  display: inline-block;
 }
 .c-text--filter:last-of-type::after {
   content: "";
+  text-decoration: none;
+  display: inline-block;
 }
 
 .c-title-divider {

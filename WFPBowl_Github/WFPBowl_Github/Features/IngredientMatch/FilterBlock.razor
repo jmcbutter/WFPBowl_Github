@@ -1,11 +1,20 @@
-﻿<div class="o-flex o-flex--center">
+﻿@inject IJSRuntime JS
+
+<div class="o-flex o-flex--center o-container o-container--95">
     @foreach (string label in Filters)
-    {
-        <p class="c-text c-text--small c-text--filter c-text--upper u-cursor--pointer" @onclick="(async () => await Filter.InvokeAsync(label.ToLower()))">@label</p>   
+    {  
+        <p class="c-text c-text--small c-text--filter c-text--upper u-cursor--pointer" 
+                @onclick="@(() => OnFilterClick(label))"
+                id="@GetIdName(label)">
+            @label
+        </p>   
     }
 </div>
 
 @code {
+    [Parameter, EditorRequired]
+    public EventCallback<string> Filter { get; set; }
+
     public readonly List<string> Filters = new List<string>
     {
         "All",
@@ -13,12 +22,33 @@
         "Legumes",
         "Vegetables",
         "Fruits",
-        "Nuts",
-        "Spices",
+        "Nuts & Seeds",
+        "Herbs & Spices",
         "Sauces",
         "Other",
     };
 
-    [Parameter, EditorRequired]
-    public EventCallback<string> Filter { get; set; }
+    public async Task OnFilterClick(string label)
+    {
+        await Filter.InvokeAsync(label.ToLower());
+        await UnderlineFilter(label);
+    }
+
+    public string GetIdName(string label)
+    {
+        return $"Filter--{label}";
+    }
+
+    public async Task UnderlineFilter(string label)
+    {
+        await JS.InvokeVoidAsync("underlineFilters", Filters, label);
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JS.InvokeVoidAsync("underlineFilters", Filters, "All");
+        }
+    }
 }

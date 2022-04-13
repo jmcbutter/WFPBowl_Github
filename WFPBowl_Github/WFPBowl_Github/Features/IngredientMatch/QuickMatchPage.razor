@@ -1,6 +1,7 @@
 ﻿@page "/"
 @using System.Collections.ObjectModel
 @inject HttpClient Http
+@inject IJSRuntime JS
 
 @if (_filter == null || _filter.VisibleIngredients == null)
 {
@@ -41,10 +42,13 @@ else
         }
     }
 
-    private void AddIngredientToSelection(Ingredient ingredient)
+    private async Task AddIngredientToSelection(Ingredient ingredient)
     {
         ingredient.IsSelected = !ingredient.IsSelected;
         _filter.AddIngredientToSelection(ingredient);
+        await JS.InvokeVoidAsync("scrollTop");
+        await JS.InvokeVoidAsync("clearSearch");
+        SearchIngredient("");
         StateHasChanged();
     }
 

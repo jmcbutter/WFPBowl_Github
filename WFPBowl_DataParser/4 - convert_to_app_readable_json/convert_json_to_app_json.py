@@ -79,7 +79,7 @@ def get_ingredients_from_json(json_file):
 
 
 
-ingredients = get_ingredients_from_json("../4 - document_reader/unvalidated_ingredient_json_data.json")
+ingredients = get_ingredients_from_json("../3 - document_reader/unvalidated_ingredient_json_data.json")
 
 with open('ingredient-data.json', 'w') as outfile:
         json.dump([ingredient for ingredient in ingredients], outfile, separators=(",", ":"), indent=4, cls=IngredientEncoder) 

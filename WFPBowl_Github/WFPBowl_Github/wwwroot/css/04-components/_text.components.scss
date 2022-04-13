@@ -58,10 +58,14 @@
 
 .c-text--filter {
     &::after {
-        content: " |\00a0";
+        content: "\00a0|\00a0";
+        text-decoration: none;
+        display: inline-block;
     }
 
     &:last-of-type::after {
         content: "";
+        text-decoration: none;
+        display: inline-block;
     }
 }
