@@ -15,7 +15,7 @@
       
     @if(Selected !=null && Selected.Any())
     {
-        <div class="list">
+        <div class="o-container o-container--80">
             @foreach(var ingredient in Selected)
             {
                 <RatedIngredient Ingredient="ingredient" OnSelected="RemoveIngredient"/>
