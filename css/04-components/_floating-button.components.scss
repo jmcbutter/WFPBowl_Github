@@ -1,0 +1,33 @@
+@use "../00-settings/colors.settings";
+@use "../00-settings/fonts.settings";
+
+.c-floating-button {
+    position: fixed;
+    bottom: 2rem;
+    left: min(calc(100vw / 2 + 310px - 9vh), calc(100% - max(9vh, 75px)));
+
+    min-height: 60px;
+    min-width: 60px;
+    height: 8vh;
+    width: 8vh;
+
+    border: 1px solid #000000;
+    border-radius: 50%;
+    background-color: colors.$color-primary;
+    box-shadow: 2px 2px 10px 0px colors.$color-primary-shadow;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+.c-floating-button__symbol {
+    font-size: 5rem;
+    font-weight: lighter;
+    align-self: center;
+    margin: 0;
+    padding-bottom: 0.15em;
+    line-height: 0.7em;
+    color: colors.$color-page-background;
+}

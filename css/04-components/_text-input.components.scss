@@ -1,0 +1,15 @@
+@use "../00-settings/colors.settings";
+@use "../00-settings/fonts.settings";
+
+.c-text-input {
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: fonts.$font-ms;
+    text-align: center;
+    text-transform: lowercase;
+    font-style: italic;
+    margin: 0 auto;
+    display: block;
+    background-color: inherit;
+    border-radius: 0;
+}

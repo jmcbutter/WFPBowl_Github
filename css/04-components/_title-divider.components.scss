@@ -1,0 +1,30 @@
+.c-title-divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    &::after {
+        content: "";
+        flex: 1;
+        border-bottom: 1px solid black;
+    }
+
+    &:not(:empty)::after {
+        margin-left: 0.25em;
+    }
+
+    &--underline{
+        border-bottom: 1px solid #dddddd;
+        text-align: left;
+        padding-left: 0.5em;
+        margin: 0 auto;
+    }
+}
+
+.c-title-divider__title {
+    text-align: left;
+    display: inline-block;
+}
+
+
+

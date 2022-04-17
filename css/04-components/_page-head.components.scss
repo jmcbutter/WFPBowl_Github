@@ -1,0 +1,40 @@
+@use "../00-settings/colors.settings";
+@use "../00-settings/fonts.settings";
+
+.c-page-head {
+    display: grid;
+    grid-template-areas: "page-head__menu   page-head__logo   page-head__help";
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2rem;
+
+    background-color: colors.$color-primary;
+    color: colors.$color-secondary;
+  }
+
+@media (max-width: 350px) {
+    .c-page-head {
+        grid-template-rows: 0.5rem;
+    }
+}
+
+  .c-page-head__menu {
+      grid-area: page-head__menu;
+      align-self: center;
+      justify-self: start;
+      padding-right: 1em;
+  }
+
+  .c-page-head__logo {
+      grid-area: page-head__logo;
+      align-self: center;
+      justify-self: center;
+      margin: 0;
+      outline: none;
+  }
+
+  .c-page-head__help {
+      grid-area: page-head__help;
+      justify-self: end;
+      padding-right: 1em;
+      align-self: center;
+  }

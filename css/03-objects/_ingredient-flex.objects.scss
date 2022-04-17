@@ -1,0 +1,38 @@
+.o-ingredient-flex {
+    display: flex;
+}
+
+.o-ingredient-flex__left {
+    flex: 9;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-right: 1em;
+    max-width: 90%;
+}
+
+.o-ingredient-flex__right {
+    flex: 1;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    min-width: 10%;
+}
+
+@media (max-width: 350px) {
+    .o-ingredient-flex {
+        flex-direction: column;
+    }
+
+    .o-ingredient-flex__left {
+        justify-content: center;
+        text-align: center;
+        padding: 0 1.5em;
+        max-width: 100%;
+    }
+
+    .o-ingredient-flex__right {
+        justify-content: center;
+        padding-top: 0.25em;
+    }
+}

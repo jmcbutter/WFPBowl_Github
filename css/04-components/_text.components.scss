@@ -1,0 +1,71 @@
+@use "../00-settings/colors.settings";
+@use "../00-settings/fonts.settings";
+
+
+.c-text {
+    color: colors.$color-page-text-primary;
+    text-transform: lowercase;
+    font-size: fonts.$font-ms;
+}
+
+.c-text--xsmall {
+  font-size: fonts.$font-xs;
+}
+
+.c-text--small {
+    font-size: fonts.$font-s;
+}
+
+.c-text--medium-small {
+    font-size: fonts.$font-ms;
+}
+
+.c-text--medium {
+    font-size: fonts.$font-m;
+}
+
+.c-text--bold {
+    font-weight: bold;
+}
+
+.c-text--heading {
+    color: colors.$color-page-text-secondary;
+    text-transform: uppercase;
+    font-size: fonts.$font-mlg;
+    font-family: fonts.$secondary-font-family;
+}
+
+.c-text--upper {
+    text-transform: uppercase;
+}
+
+.c-text--underlined {
+    text-decoration: underline;
+}
+
+.c-text--unbolded {
+    font-weight: normal;
+}
+
+.c-text--cap {
+    text-transform: capitalize;
+}
+
+.c-text--normal {
+  text-transform: none;
+}
+
+
+.c-text--filter {
+    &::after {
+        content: "\00a0|\00a0";
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    &:last-of-type::after {
+        content: "";
+        text-decoration: none;
+        display: inline-block;
+    }
+}

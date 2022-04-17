@@ -1,0 +1,43 @@
+.u-pad-over {
+  padding-top: 1em;
+
+  &--s {
+    padding-top: 0.5em;
+  }
+
+  &--lg {
+    padding-top: 1.5em;
+  }
+}
+
+.u-pad-under {
+  padding-bottom: 1em;
+
+  &--s {
+    padding-bottom: 0.5em;
+  }
+
+  &--xs {
+    padding-bottom: 0.25em
+  }
+
+  &--lg {
+    padding-bottom: 1.5em;
+  }
+}
+
+.u-pad-sides {
+  padding-left: 1em;
+  padding-right: 1em;
+
+  &--s {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  &--lg {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+}
+
